@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_080_Function_5\bin\Debug\CS_080_Function_5.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_080_Function_5\bin\Debug\CS_080_Function_5.exe
+D:\KOPOAcademy\CSharp_Programming\CS_080_Function_5\bin\Debug\CS_080_Function_5.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_080_Function_5\obj\Debug\CS_080_Function_5.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_080_Function_5\obj\Debug\CS_080_Function_5.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_080_Function_5\obj\Debug\CS_080_Function_5.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_080_Function_5\obj\Debug\CS_080_Function_5.exe
+D:\KOPOAcademy\CSharp_Programming\CS_080_Function_5\obj\Debug\CS_080_Function_5.pdb
