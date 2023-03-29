@@ -1,56 +1,40 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS_081_FunctionCheck
+namespace CS_082_Function_ref
 {
     internal class Program
     {
-        static int Hap(int a, int b, int c)
+        static void InitVal(int num)
         {
-            return a + b + c;
+            num = 200;
         }
 
-        static int Pyung(int a, int b, int c)
+        static void InitRef(ref int num) 
         {
-            return (a + b + c) / 3;
+            num = 200;
         }
-
-        static int MaxScore(int a, int b, int c)
+        static void InitOut(out int num)
         {
-            //if (a > b)
-            //{
-            //    if (a > c)  return a;
-            //    else        return c;
-            //}
-
-            //else if (b > c)
-            //{
-            //    if (b > a)  return b;
-            //    else        return a;
-            //}
-
-            return a > b && a > c ? a : b > c ? b : c;
+            num = 200;
         }
 
         static void Main(string[] args)
         {
-            Console.Write("국어 점수를 입력하세요: ");
-            int tmpX = int.Parse(Console.ReadLine());
+            int a = 100;
+            InitVal(a);
+            Console.WriteLine("a: {0}", a);
 
-            Console.Write("영어 점수를 입력하세요: ");
-            int tmpY = int.Parse(Console.ReadLine());
+            int b = 100;
+            InitRef(ref b);
+            Console.WriteLine("b: {0}", b);
 
-            Console.Write("수학 점수를 입력하세요: ");
-            int tmpZ = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("합계: {0}", Hap(tmpX, tmpY, tmpZ));
-            Console.WriteLine("평균: {0}", Pyung(tmpX, tmpY, tmpZ));
-            Console.WriteLine("가장 높은 점수: {0}", MaxScore(tmpX, tmpY, tmpZ));
+            int c;
+            InitOut(out c);
+            Console.WriteLine("c: {0}", c);
         }
     }
 }
