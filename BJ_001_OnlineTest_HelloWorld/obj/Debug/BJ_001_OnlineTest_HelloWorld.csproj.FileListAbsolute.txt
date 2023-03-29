@@ -1,0 +1,8 @@
+D:\Programming_Learning\BJ_001_OnlineTest_HelloWorld\obj\Debug\BJ_001_OnlineTest_HelloWorld.csproj.AssemblyReference.cache
+D:\Programming_Learning\BJ_001_OnlineTest_HelloWorld\obj\Debug\BJ_001_OnlineTest_HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\BJ_001_OnlineTest_HelloWorld\obj\Debug\BJ_001_OnlineTest_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\BJ_001_OnlineTest_HelloWorld\bin\Debug\BJ_001_OnlineTest_HelloWorld.exe.config
+D:\Programming_Learning\BJ_001_OnlineTest_HelloWorld\bin\Debug\BJ_001_OnlineTest_HelloWorld.exe
+D:\Programming_Learning\BJ_001_OnlineTest_HelloWorld\bin\Debug\BJ_001_OnlineTest_HelloWorld.pdb
+D:\Programming_Learning\BJ_001_OnlineTest_HelloWorld\obj\Debug\BJ_001_OnlineTest_HelloWorld.exe
+D:\Programming_Learning\BJ_001_OnlineTest_HelloWorld\obj\Debug\BJ_001_OnlineTest_HelloWorld.pdb
