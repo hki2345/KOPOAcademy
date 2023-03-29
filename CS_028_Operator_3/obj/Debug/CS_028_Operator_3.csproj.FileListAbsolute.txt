@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_028_Operator_3\bin\Debug\CS_028_Operator_3.exe.config
+D:\Programming_Learning\CS_028_Operator_3\bin\Debug\CS_028_Operator_3.exe
+D:\Programming_Learning\CS_028_Operator_3\bin\Debug\CS_028_Operator_3.pdb
+D:\Programming_Learning\CS_028_Operator_3\obj\Debug\CS_028_Operator_3.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_028_Operator_3\obj\Debug\CS_028_Operator_3.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_028_Operator_3\obj\Debug\CS_028_Operator_3.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_028_Operator_3\obj\Debug\CS_028_Operator_3.exe
+D:\Programming_Learning\CS_028_Operator_3\obj\Debug\CS_028_Operator_3.pdb
