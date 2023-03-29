@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_086_Function_default\bin\Debug\CS_086_Function_default.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_086_Function_default\bin\Debug\CS_086_Function_default.exe
+D:\KOPOAcademy\CSharp_Programming\CS_086_Function_default\bin\Debug\CS_086_Function_default.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_086_Function_default\obj\Debug\CS_086_Function_default.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_086_Function_default\obj\Debug\CS_086_Function_default.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_086_Function_default\obj\Debug\CS_086_Function_default.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_086_Function_default\obj\Debug\CS_086_Function_default.exe
+D:\KOPOAcademy\CSharp_Programming\CS_086_Function_default\obj\Debug\CS_086_Function_default.pdb
