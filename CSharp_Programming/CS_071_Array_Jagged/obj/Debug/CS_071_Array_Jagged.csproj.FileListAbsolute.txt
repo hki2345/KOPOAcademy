@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_071_Array_Jagged\bin\Debug\CS_071_Array_Jagged.exe.config
+D:\Programming_Learning\CS_071_Array_Jagged\bin\Debug\CS_071_Array_Jagged.exe
+D:\Programming_Learning\CS_071_Array_Jagged\bin\Debug\CS_071_Array_Jagged.pdb
+D:\Programming_Learning\CS_071_Array_Jagged\obj\Debug\CS_071_Array_Jagged.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_071_Array_Jagged\obj\Debug\CS_071_Array_Jagged.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_071_Array_Jagged\obj\Debug\CS_071_Array_Jagged.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_071_Array_Jagged\obj\Debug\CS_071_Array_Jagged.exe
+D:\Programming_Learning\CS_071_Array_Jagged\obj\Debug\CS_071_Array_Jagged.pdb

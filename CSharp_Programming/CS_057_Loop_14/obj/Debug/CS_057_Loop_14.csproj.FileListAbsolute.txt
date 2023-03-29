@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_057_Loop_14\bin\Debug\CS_057_Loop_14.exe.config
+D:\Programming_Learning\CS_057_Loop_14\bin\Debug\CS_057_Loop_14.exe
+D:\Programming_Learning\CS_057_Loop_14\bin\Debug\CS_057_Loop_14.pdb
+D:\Programming_Learning\CS_057_Loop_14\obj\Debug\CS_057_Loop_14.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_057_Loop_14\obj\Debug\CS_057_Loop_14.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_057_Loop_14\obj\Debug\CS_057_Loop_14.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_057_Loop_14\obj\Debug\CS_057_Loop_14.exe
+D:\Programming_Learning\CS_057_Loop_14\obj\Debug\CS_057_Loop_14.pdb

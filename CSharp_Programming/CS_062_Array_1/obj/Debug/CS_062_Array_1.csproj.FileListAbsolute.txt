@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_062_Array_1\bin\Debug\CS_062_Array_1.exe.config
+D:\Programming_Learning\CS_062_Array_1\bin\Debug\CS_062_Array_1.exe
+D:\Programming_Learning\CS_062_Array_1\bin\Debug\CS_062_Array_1.pdb
+D:\Programming_Learning\CS_062_Array_1\obj\Debug\CS_062_Array_1.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_062_Array_1\obj\Debug\CS_062_Array_1.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_062_Array_1\obj\Debug\CS_062_Array_1.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_062_Array_1\obj\Debug\CS_062_Array_1.exe
+D:\Programming_Learning\CS_062_Array_1\obj\Debug\CS_062_Array_1.pdb

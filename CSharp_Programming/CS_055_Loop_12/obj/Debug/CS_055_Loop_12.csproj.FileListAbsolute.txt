@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_055_Loop_12\bin\Debug\CS_055_Loop_12.exe.config
+D:\Programming_Learning\CS_055_Loop_12\bin\Debug\CS_055_Loop_12.exe
+D:\Programming_Learning\CS_055_Loop_12\bin\Debug\CS_055_Loop_12.pdb
+D:\Programming_Learning\CS_055_Loop_12\obj\Debug\CS_055_Loop_12.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_055_Loop_12\obj\Debug\CS_055_Loop_12.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_055_Loop_12\obj\Debug\CS_055_Loop_12.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_055_Loop_12\obj\Debug\CS_055_Loop_12.exe
+D:\Programming_Learning\CS_055_Loop_12\obj\Debug\CS_055_Loop_12.pdb
