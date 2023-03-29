@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_081_FunctionCheck\obj\Debug\CS_081_FunctionCheck.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_081_FunctionCheck\obj\Debug\CS_081_FunctionCheck.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_081_FunctionCheck\obj\Debug\CS_081_FunctionCheck.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_081_FunctionCheck\bin\Debug\CS_081_FunctionCheck.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_081_FunctionCheck\bin\Debug\CS_081_FunctionCheck.exe
+D:\KOPOAcademy\CSharp_Programming\CS_081_FunctionCheck\bin\Debug\CS_081_FunctionCheck.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_081_FunctionCheck\obj\Debug\CS_081_FunctionCheck.exe
+D:\KOPOAcademy\CSharp_Programming\CS_081_FunctionCheck\obj\Debug\CS_081_FunctionCheck.pdb
