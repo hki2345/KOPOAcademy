@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_039_Exercise\bin\Debug\CS_039_Exercise.exe.config
+D:\Programming_Learning\CS_039_Exercise\bin\Debug\CS_039_Exercise.exe
+D:\Programming_Learning\CS_039_Exercise\bin\Debug\CS_039_Exercise.pdb
+D:\Programming_Learning\CS_039_Exercise\obj\Debug\CS_039_Exercise.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_039_Exercise\obj\Debug\CS_039_Exercise.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_039_Exercise\obj\Debug\CS_039_Exercise.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_039_Exercise\obj\Debug\CS_039_Exercise.exe
+D:\Programming_Learning\CS_039_Exercise\obj\Debug\CS_039_Exercise.pdb

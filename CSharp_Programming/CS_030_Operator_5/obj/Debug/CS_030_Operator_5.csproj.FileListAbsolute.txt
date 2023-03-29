@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_030_Operator_5\bin\Debug\CS_030_Operator_5.exe.config
+D:\Programming_Learning\CS_030_Operator_5\bin\Debug\CS_030_Operator_5.exe
+D:\Programming_Learning\CS_030_Operator_5\bin\Debug\CS_030_Operator_5.pdb
+D:\Programming_Learning\CS_030_Operator_5\obj\Debug\CS_030_Operator_5.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_030_Operator_5\obj\Debug\CS_030_Operator_5.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_030_Operator_5\obj\Debug\CS_030_Operator_5.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_030_Operator_5\obj\Debug\CS_030_Operator_5.exe
+D:\Programming_Learning\CS_030_Operator_5\obj\Debug\CS_030_Operator_5.pdb

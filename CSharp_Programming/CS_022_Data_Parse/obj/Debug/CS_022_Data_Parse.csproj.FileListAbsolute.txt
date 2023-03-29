@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_022_Data_Parse\bin\Debug\CS_022_Data_Parse.exe.config
+D:\Programming_Learning\CS_022_Data_Parse\bin\Debug\CS_022_Data_Parse.exe
+D:\Programming_Learning\CS_022_Data_Parse\bin\Debug\CS_022_Data_Parse.pdb
+D:\Programming_Learning\CS_022_Data_Parse\obj\Debug\CS_022_Data_Parse.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_022_Data_Parse\obj\Debug\CS_022_Data_Parse.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_022_Data_Parse\obj\Debug\CS_022_Data_Parse.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_022_Data_Parse\obj\Debug\CS_022_Data_Parse.exe
+D:\Programming_Learning\CS_022_Data_Parse\obj\Debug\CS_022_Data_Parse.pdb

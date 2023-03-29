@@ -1,8 +1,0 @@
-D:\Programming_Learning\CS_021_Data_ToString\bin\Debug\CS_021_Data_ToString.exe.config
-D:\Programming_Learning\CS_021_Data_ToString\bin\Debug\CS_021_Data_ToString.exe
-D:\Programming_Learning\CS_021_Data_ToString\bin\Debug\CS_021_Data_ToString.pdb
-D:\Programming_Learning\CS_021_Data_ToString\obj\Debug\CS_021_Data_ToString.csproj.AssemblyReference.cache
-D:\Programming_Learning\CS_021_Data_ToString\obj\Debug\CS_021_Data_ToString.csproj.SuggestedBindingRedirects.cache
-D:\Programming_Learning\CS_021_Data_ToString\obj\Debug\CS_021_Data_ToString.csproj.CoreCompileInputs.cache
-D:\Programming_Learning\CS_021_Data_ToString\obj\Debug\CS_021_Data_ToString.exe
-D:\Programming_Learning\CS_021_Data_ToString\obj\Debug\CS_021_Data_ToString.pdb

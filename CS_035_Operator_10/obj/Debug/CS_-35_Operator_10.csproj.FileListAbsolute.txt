@@ -1,8 +1,0 @@
-D:\Programming_Learning\CS_-35_Operator_10\bin\Debug\CS_-35_Operator_10.exe.config
-D:\Programming_Learning\CS_-35_Operator_10\bin\Debug\CS_-35_Operator_10.exe
-D:\Programming_Learning\CS_-35_Operator_10\bin\Debug\CS_-35_Operator_10.pdb
-D:\Programming_Learning\CS_-35_Operator_10\obj\Debug\CS_-35_Operator_10.csproj.AssemblyReference.cache
-D:\Programming_Learning\CS_-35_Operator_10\obj\Debug\CS_-35_Operator_10.csproj.SuggestedBindingRedirects.cache
-D:\Programming_Learning\CS_-35_Operator_10\obj\Debug\CS_-35_Operator_10.csproj.CoreCompileInputs.cache
-D:\Programming_Learning\CS_-35_Operator_10\obj\Debug\CS_-35_Operator_10.exe
-D:\Programming_Learning\CS_-35_Operator_10\obj\Debug\CS_-35_Operator_10.pdb

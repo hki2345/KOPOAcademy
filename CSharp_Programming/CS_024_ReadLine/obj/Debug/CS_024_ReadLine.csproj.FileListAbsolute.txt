@@ -1,0 +1,8 @@
+D:\Programming_Learning\CS_024_ReadLine\bin\Debug\CS_024_ReadLine.exe.config
+D:\Programming_Learning\CS_024_ReadLine\bin\Debug\CS_024_ReadLine.exe
+D:\Programming_Learning\CS_024_ReadLine\bin\Debug\CS_024_ReadLine.pdb
+D:\Programming_Learning\CS_024_ReadLine\obj\Debug\CS_024_ReadLine.csproj.AssemblyReference.cache
+D:\Programming_Learning\CS_024_ReadLine\obj\Debug\CS_024_ReadLine.csproj.SuggestedBindingRedirects.cache
+D:\Programming_Learning\CS_024_ReadLine\obj\Debug\CS_024_ReadLine.csproj.CoreCompileInputs.cache
+D:\Programming_Learning\CS_024_ReadLine\obj\Debug\CS_024_ReadLine.exe
+D:\Programming_Learning\CS_024_ReadLine\obj\Debug\CS_024_ReadLine.pdb

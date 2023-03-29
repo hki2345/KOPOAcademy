@@ -1,8 +1,0 @@
-D:\Programming_Learning\CS_025_Check\bin\Debug\CS_025_Check.exe.config
-D:\Programming_Learning\CS_025_Check\bin\Debug\CS_025_Check.exe
-D:\Programming_Learning\CS_025_Check\bin\Debug\CS_025_Check.pdb
-D:\Programming_Learning\CS_025_Check\obj\Debug\CS_025_Check.csproj.AssemblyReference.cache
-D:\Programming_Learning\CS_025_Check\obj\Debug\CS_025_Check.csproj.SuggestedBindingRedirects.cache
-D:\Programming_Learning\CS_025_Check\obj\Debug\CS_025_Check.csproj.CoreCompileInputs.cache
-D:\Programming_Learning\CS_025_Check\obj\Debug\CS_025_Check.exe
-D:\Programming_Learning\CS_025_Check\obj\Debug\CS_025_Check.pdb

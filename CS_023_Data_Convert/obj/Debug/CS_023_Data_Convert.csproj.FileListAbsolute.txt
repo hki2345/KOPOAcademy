@@ -1,8 +1,0 @@
-D:\Programming_Learning\CS_023_Data_Convert\bin\Debug\CS_023_Data_Convert.exe.config
-D:\Programming_Learning\CS_023_Data_Convert\bin\Debug\CS_023_Data_Convert.exe
-D:\Programming_Learning\CS_023_Data_Convert\bin\Debug\CS_023_Data_Convert.pdb
-D:\Programming_Learning\CS_023_Data_Convert\obj\Debug\CS_023_Data_Convert.csproj.AssemblyReference.cache
-D:\Programming_Learning\CS_023_Data_Convert\obj\Debug\CS_023_Data_Convert.csproj.SuggestedBindingRedirects.cache
-D:\Programming_Learning\CS_023_Data_Convert\obj\Debug\CS_023_Data_Convert.csproj.CoreCompileInputs.cache
-D:\Programming_Learning\CS_023_Data_Convert\obj\Debug\CS_023_Data_Convert.exe
-D:\Programming_Learning\CS_023_Data_Convert\obj\Debug\CS_023_Data_Convert.pdb

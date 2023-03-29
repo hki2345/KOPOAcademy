@@ -1,8 +1,0 @@
-D:\Programming_Learning\CS_019_Data_var\bin\Debug\CS_019_Data_var.exe.config
-D:\Programming_Learning\CS_019_Data_var\bin\Debug\CS_019_Data_var.exe
-D:\Programming_Learning\CS_019_Data_var\bin\Debug\CS_019_Data_var.pdb
-D:\Programming_Learning\CS_019_Data_var\obj\Debug\CS_019_Data_var.csproj.AssemblyReference.cache
-D:\Programming_Learning\CS_019_Data_var\obj\Debug\CS_019_Data_var.csproj.SuggestedBindingRedirects.cache
-D:\Programming_Learning\CS_019_Data_var\obj\Debug\CS_019_Data_var.csproj.CoreCompileInputs.cache
-D:\Programming_Learning\CS_019_Data_var\obj\Debug\CS_019_Data_var.exe
-D:\Programming_Learning\CS_019_Data_var\obj\Debug\CS_019_Data_var.pdb

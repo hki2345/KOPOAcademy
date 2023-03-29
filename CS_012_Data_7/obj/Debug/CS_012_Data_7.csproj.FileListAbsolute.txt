@@ -1,8 +1,0 @@
-D:\Programming_Learning\CS_012_Data_7\bin\Debug\CS_012_Data_7.exe.config
-D:\Programming_Learning\CS_012_Data_7\bin\Debug\CS_012_Data_7.exe
-D:\Programming_Learning\CS_012_Data_7\bin\Debug\CS_012_Data_7.pdb
-D:\Programming_Learning\CS_012_Data_7\obj\Debug\CS_012_Data_7.csproj.AssemblyReference.cache
-D:\Programming_Learning\CS_012_Data_7\obj\Debug\CS_012_Data_7.csproj.SuggestedBindingRedirects.cache
-D:\Programming_Learning\CS_012_Data_7\obj\Debug\CS_012_Data_7.csproj.CoreCompileInputs.cache
-D:\Programming_Learning\CS_012_Data_7\obj\Debug\CS_012_Data_7.exe
-D:\Programming_Learning\CS_012_Data_7\obj\Debug\CS_012_Data_7.pdb

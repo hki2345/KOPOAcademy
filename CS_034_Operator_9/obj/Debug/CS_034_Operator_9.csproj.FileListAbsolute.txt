@@ -1,8 +1,0 @@
-D:\Programming_Learning\CS_034_Operator_9\bin\Debug\CS_034_Operator_9.exe.config
-D:\Programming_Learning\CS_034_Operator_9\bin\Debug\CS_034_Operator_9.exe
-D:\Programming_Learning\CS_034_Operator_9\bin\Debug\CS_034_Operator_9.pdb
-D:\Programming_Learning\CS_034_Operator_9\obj\Debug\CS_034_Operator_9.csproj.AssemblyReference.cache
-D:\Programming_Learning\CS_034_Operator_9\obj\Debug\CS_034_Operator_9.csproj.SuggestedBindingRedirects.cache
-D:\Programming_Learning\CS_034_Operator_9\obj\Debug\CS_034_Operator_9.csproj.CoreCompileInputs.cache
-D:\Programming_Learning\CS_034_Operator_9\obj\Debug\CS_034_Operator_9.exe
-D:\Programming_Learning\CS_034_Operator_9\obj\Debug\CS_034_Operator_9.pdb

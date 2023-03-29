@@ -1,8 +1,0 @@
-D:\Programming_Learning\CS_018_Data_nullable\bin\Debug\CS_018_Data_nullable.exe.config
-D:\Programming_Learning\CS_018_Data_nullable\bin\Debug\CS_018_Data_nullable.exe
-D:\Programming_Learning\CS_018_Data_nullable\bin\Debug\CS_018_Data_nullable.pdb
-D:\Programming_Learning\CS_018_Data_nullable\obj\Debug\CS_018_Data_nullable.csproj.AssemblyReference.cache
-D:\Programming_Learning\CS_018_Data_nullable\obj\Debug\CS_018_Data_nullable.csproj.SuggestedBindingRedirects.cache
-D:\Programming_Learning\CS_018_Data_nullable\obj\Debug\CS_018_Data_nullable.csproj.CoreCompileInputs.cache
-D:\Programming_Learning\CS_018_Data_nullable\obj\Debug\CS_018_Data_nullable.exe
-D:\Programming_Learning\CS_018_Data_nullable\obj\Debug\CS_018_Data_nullable.pdb
