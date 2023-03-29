@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_089_Function_Recursion\bin\Debug\CS_089_Function_Recursion.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_089_Function_Recursion\bin\Debug\CS_089_Function_Recursion.exe
+D:\KOPOAcademy\CSharp_Programming\CS_089_Function_Recursion\bin\Debug\CS_089_Function_Recursion.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_089_Function_Recursion\obj\Debug\CS_089_Function_Recursion.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_089_Function_Recursion\obj\Debug\CS_089_Function_Recursion.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_089_Function_Recursion\obj\Debug\CS_089_Function_Recursion.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_089_Function_Recursion\obj\Debug\CS_089_Function_Recursion.exe
+D:\KOPOAcademy\CSharp_Programming\CS_089_Function_Recursion\obj\Debug\CS_089_Function_Recursion.pdb

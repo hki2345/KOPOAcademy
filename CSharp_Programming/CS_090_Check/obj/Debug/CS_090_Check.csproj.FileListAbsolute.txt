@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_090_Check\bin\Debug\CS_090_Check.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_090_Check\bin\Debug\CS_090_Check.exe
+D:\KOPOAcademy\CSharp_Programming\CS_090_Check\bin\Debug\CS_090_Check.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_090_Check\obj\Debug\CS_090_Check.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_090_Check\obj\Debug\CS_090_Check.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_090_Check\obj\Debug\CS_090_Check.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_090_Check\obj\Debug\CS_090_Check.exe
+D:\KOPOAcademy\CSharp_Programming\CS_090_Check\obj\Debug\CS_090_Check.pdb
