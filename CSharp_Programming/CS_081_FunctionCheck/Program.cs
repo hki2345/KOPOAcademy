@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,19 +22,19 @@ namespace CS_081_FunctionCheck
 
         static int MaxScore(int a, int b, int c)
         {
-            if (a > b)
-            {
-                if (a > c)  return a;
-                else        return c;
-            }
+            //if (a > b)
+            //{
+            //    if (a > c)  return a;
+            //    else        return c;
+            //}
 
-            else if (b > c)
-            {
-                if (b > a)  return b;
-                else        return a;
-            }
+            //else if (b > c)
+            //{
+            //    if (b > a)  return b;
+            //    else        return a;
+            //}
 
-            return c;
+            return a > b && a > c ? a : b > c ? b : c;
         }
 
         static void Main(string[] args)
