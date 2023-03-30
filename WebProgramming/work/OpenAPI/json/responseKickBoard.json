@@ -1,0 +1,179 @@
+{
+    "parkingKickboard": {
+        "list_total_count": 193,
+        "RESULT": {
+            "CODE": "INFO-000",
+            "MESSAGE": "정상 처리되었습니다"
+        },
+        "row": [
+            {
+                "NO": 1.0,
+                "SGG_NM": "종로구",
+                "ADDR": "팔판동 115-63",
+                "DADDR": "청와대 춘추문 맞은편 인근",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 2.0,
+                "SGG_NM": "종로구",
+                "ADDR": "연건동 218-1",
+                "DADDR": "KT광화문 혜화지사 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 3.0,
+                "SGG_NM": "종로구",
+                "ADDR": "연건동 178-3",
+                "DADDR": "홍익대학교 대학로 맞은편",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 4.0,
+                "SGG_NM": "종로구",
+                "ADDR": "동승동 1-24",
+                "DADDR": "대학로 마로니에공원 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 8.0
+            },
+            {
+                "NO": 5.0,
+                "SGG_NM": "종로구",
+                "ADDR": "와룡동 75-4",
+                "DADDR": "연악사 맞은편",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 8.0
+            },
+            {
+                "NO": 6.0,
+                "SGG_NM": "종로구",
+                "ADDR": "명륜4가 96-4",
+                "DADDR": "흥사단 동숭미술관 맞은편",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 7.0,
+                "SGG_NM": "종로구",
+                "ADDR": "소격동 165-5",
+                "DADDR": "국립현대미술관 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 8.0,
+                "SGG_NM": "종로구",
+                "ADDR": "신문로1가 5-4",
+                "DADDR": "새문안교회 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 8.0
+            },
+            {
+                "NO": 9.0,
+                "SGG_NM": "종로구",
+                "ADDR": "신문로 2가 58",
+                "DADDR": "(구) 경찰박물관 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 8.0
+            },
+            {
+                "NO": 10.0,
+                "SGG_NM": "종로구",
+                "ADDR": "무악동 41-7",
+                "DADDR": "무악현대아파트 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 11.0,
+                "SGG_NM": "종로구",
+                "ADDR": "사직동 45-4",
+                "DADDR": "사직공원 맞은편",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 8.0
+            },
+            {
+                "NO": 12.0,
+                "SGG_NM": "종로구",
+                "ADDR": "내자동 186-3",
+                "DADDR": "서울경찰청 민원봉사실 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 13.0,
+                "SGG_NM": "종로구",
+                "ADDR": "적선동 8-1",
+                "DADDR": "경복궁역 4번출구 근처",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 8.0
+            },
+            {
+                "NO": 14.0,
+                "SGG_NM": "종로구",
+                "ADDR": "세종로 84-8",
+                "DADDR": "광화문역 2번 출구 근처",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 8.0
+            },
+            {
+                "NO": 15.0,
+                "SGG_NM": "종로구",
+                "ADDR": "공평동 100-19",
+                "DADDR": "종각역 2번 출구 근처",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 16.0,
+                "SGG_NM": "종로구",
+                "ADDR": "서린동 26-1",
+                "DADDR": "종각역 5번 출구 근처",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 17.0,
+                "SGG_NM": "종로구",
+                "ADDR": "종로2가 84-11",
+                "DADDR": "YBM어학원 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 8.0
+            },
+            {
+                "NO": 18.0,
+                "SGG_NM": "중구",
+                "ADDR": "중구 을지로 42",
+                "DADDR": "을지로입구역 7번출구 자전거 거치대 옆",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 5.0
+            },
+            {
+                "NO": 19.0,
+                "SGG_NM": "중구",
+                "ADDR": "중구 을지로 2가 206",
+                "DADDR": "IBK 파이낸스타워 출입구 앞",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 5.0
+            },
+            {
+                "NO": 20.0,
+                "SGG_NM": "중구",
+                "ADDR": "중구 을지로 178",
+                "DADDR": "을지로4가역 9번~10번 출구 부근",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 6.0
+            },
+            {
+                "NO": 21.0,
+                "SGG_NM": "중구",
+                "ADDR": "중구 을지로 50",
+                "DADDR": "을지로입구역 6번출구 뒷편",
+                "STAND_YN": "Y",
+                "STAND_SIZE": 5.0
+            }
+        ]
+    }
+}
