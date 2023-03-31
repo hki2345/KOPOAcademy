@@ -169,3 +169,105 @@ print(data[1][1])
 
 data[2][0] = 50
 print(data[2][0])
+
+
+# 톱니형 리스트
+data = [[10, 15],
+        [20, 25, 10, 8, 55, 1],
+        [3],
+        [14, 7, 40, 0]]
+
+
+print(data[1][1])
+data[2][0] = 50
+print(data[1][4])
+
+
+# append 이차원 리스트
+data = []
+data.append([])
+data[0].append(10)
+data[0].append(10)
+data.append([])
+data[1].append(1)
+data[1].append(2)
+data[1].append(3)
+
+print(data)
+
+
+# list와 tuple 에러 -> tuple은 const 속성일 못바꿈
+data1 = ((0,1), (2,3), (4,5))
+data2 = ([0,1], [2,3], [4,5])
+data3 = [(0,1), (2,3), (4,5)]
+
+# data1[1][1] = 10
+# data1[1] = (10, 10)
+
+data2[1][1] = 10
+# data2[1] = (10, 10)
+
+# data3[1][1] = 10
+data3[1] = (10, 10)
+
+
+# 파이썬 만의 편리한 2차원 3차원 초기화
+data1 = [[0 for i in range(3)] for j in range(5)]
+data2 = [[[0 for i in range(3)] for j in range(5)]for k in range(10)]
+
+print(data1)
+print(data2)
+
+
+# 함수 내 함수
+def c_func():
+    a= 5
+    b = 2
+    def calc(x):
+        return x * a + b
+    return calc
+
+cf = c_func()
+
+print(cf(3), cf(10))
+
+
+# try
+try:
+    data1 = list(range(3))
+    print(data1[2])
+    print(data1[2])
+
+except:
+    print("except")
+    print(data1[2])
+
+else:
+    print("else")
+
+finally:
+    print("finally")
+
+
+
+    
+
+# dictionary 값이랑 키 가져오는 행위
+
+data = dict()
+data['a1'] = 'apple'
+data['a2'] = 'banana'
+data['a3'] = 'gold'
+data['a4'] = 'silver'
+
+for key in data:
+    print(key)
+
+for key in data.keys():
+    print(key)
+
+for value in data.values():
+    print(value)
+
+for key, value in data.items():
+    print(f'{key}, {value}')
