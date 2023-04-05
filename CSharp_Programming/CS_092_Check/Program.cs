@@ -8,12 +8,15 @@ namespace CS_092_Check
 {
     internal class Program
     {
-        static void Print(int i, int j)
+        static void Print(int i, int j, int m)
         {
-            if (i % 3 == 1 && j % 3 == 1)
+            if (i / m % 3 == 1 && j / m % 3 == 1)
                 Console.Write(' ');
             else
-                Print(i / 3, j / 3);
+                if(m == 1)
+                    Console.Write("*");
+                else    
+                    Print(i, j, m / 3);
         }
         static void Main(string[] args)
         {
@@ -23,7 +26,7 @@ namespace CS_092_Check
             {
                 for (int j = 0; j < n; j++)
                 {
-                    Print(i, j);
+                    Print(i, j, n / 3);
                 }
 
                 Console.WriteLine();
