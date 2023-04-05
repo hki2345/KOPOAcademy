@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_096_OOP_class\bin\Debug\CS_096_OOP_class.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_096_OOP_class\bin\Debug\CS_096_OOP_class.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_096_OOP_class\bin\Debug\CS_096_OOP_class.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_096_OOP_class\obj\Debug\CS_096_OOP_class.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_096_OOP_class\obj\Debug\CS_096_OOP_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_096_OOP_class\obj\Debug\CS_096_OOP_class.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_096_OOP_class\obj\Debug\CS_096_OOP_class.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_096_OOP_class\obj\Debug\CS_096_OOP_class.pdb

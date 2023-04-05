@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_094_Challenge\bin\Debug\CS_094_Challenge.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_094_Challenge\bin\Debug\CS_094_Challenge.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_094_Challenge\bin\Debug\CS_094_Challenge.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_094_Challenge\obj\Debug\CS_094_Challenge.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_094_Challenge\obj\Debug\CS_094_Challenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_094_Challenge\obj\Debug\CS_094_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_094_Challenge\obj\Debug\CS_094_Challenge.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_094_Challenge\obj\Debug\CS_094_Challenge.pdb

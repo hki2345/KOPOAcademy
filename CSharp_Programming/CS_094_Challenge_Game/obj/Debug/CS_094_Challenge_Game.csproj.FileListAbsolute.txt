@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_094_Challenge_Game\bin\Debug\CS_094_Challenge_Game.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_094_Challenge_Game\bin\Debug\CS_094_Challenge_Game.exe
+D:\KOPOAcademy\CSharp_Programming\CS_094_Challenge_Game\bin\Debug\CS_094_Challenge_Game.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_094_Challenge_Game\obj\Debug\CS_094_Challenge_Game.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_094_Challenge_Game\obj\Debug\CS_094_Challenge_Game.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_094_Challenge_Game\obj\Debug\CS_094_Challenge_Game.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_094_Challenge_Game\obj\Debug\CS_094_Challenge_Game.exe
+D:\KOPOAcademy\CSharp_Programming\CS_094_Challenge_Game\obj\Debug\CS_094_Challenge_Game.pdb

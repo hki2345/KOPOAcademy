@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_095_ReadLine_Array\bin\Debug\CS_095_ReadLine_Array.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_095_ReadLine_Array\bin\Debug\CS_095_ReadLine_Array.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_095_ReadLine_Array\bin\Debug\CS_095_ReadLine_Array.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_095_ReadLine_Array\obj\Debug\CS_095_ReadLine_Array.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_095_ReadLine_Array\obj\Debug\CS_095_ReadLine_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_095_ReadLine_Array\obj\Debug\CS_095_ReadLine_Array.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_095_ReadLine_Array\obj\Debug\CS_095_ReadLine_Array.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_095_ReadLine_Array\obj\Debug\CS_095_ReadLine_Array.pdb
