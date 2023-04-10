@@ -74,14 +74,15 @@ def UpdateResult():
 
 def UpdateDebug():
     for i in mPlayerList:
-        print(mGameTool[i.hand])
+        print(mGameTool[i.hand], end= " ")
+        print(i.winsCount, end= " ")
         
     print("------------")
 
 while(not CheckEndGame()):
     UpdateHand()
     UpdateResult()
-    # UpdateDebug()
+    UpdateDebug()
     mGameCount += 1
 
 for i in mPlayerList:
