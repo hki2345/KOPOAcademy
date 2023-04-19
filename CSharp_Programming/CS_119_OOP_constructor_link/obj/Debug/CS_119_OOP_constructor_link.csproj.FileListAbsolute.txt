@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_119_OOP_constructor_link\bin\Debug\CS_119_OOP_constructor_link.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_119_OOP_constructor_link\bin\Debug\CS_119_OOP_constructor_link.exe
+D:\KOPOAcademy\CSharp_Programming\CS_119_OOP_constructor_link\bin\Debug\CS_119_OOP_constructor_link.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_119_OOP_constructor_link\obj\Debug\CS_119_OOP_constructor_link.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_119_OOP_constructor_link\obj\Debug\CS_119_OOP_constructor_link.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_119_OOP_constructor_link\obj\Debug\CS_119_OOP_constructor_link.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_119_OOP_constructor_link\obj\Debug\CS_119_OOP_constructor_link.exe
+D:\KOPOAcademy\CSharp_Programming\CS_119_OOP_constructor_link\obj\Debug\CS_119_OOP_constructor_link.pdb

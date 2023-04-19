@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_121_OOP_interface\bin\Debug\CS_121_OOP_interface.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_121_OOP_interface\bin\Debug\CS_121_OOP_interface.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_121_OOP_interface\bin\Debug\CS_121_OOP_interface.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_121_OOP_interface\bin\Debug\CS_121_OOP_interface.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_121_OOP_interface\bin\Debug\CS_121_OOP_interface.exe
+D:\KOPOAcademy\CSharp_Programming\CS_121_OOP_interface\bin\Debug\CS_121_OOP_interface.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.exe
+D:\KOPOAcademy\CSharp_Programming\CS_121_OOP_interface\obj\Debug\CS_121_OOP_interface.pdb

@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_120_OOP_abstract\bin\Debug\CS_120_OOP_abstract.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_120_OOP_abstract\bin\Debug\CS_120_OOP_abstract.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_120_OOP_abstract\bin\Debug\CS_120_OOP_abstract.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_120_OOP_abstract\obj\Debug\CS_120_OOP_abstract.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_120_OOP_abstract\obj\Debug\CS_120_OOP_abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_120_OOP_abstract\obj\Debug\CS_120_OOP_abstract.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_120_OOP_abstract\obj\Debug\CS_120_OOP_abstract.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_120_OOP_abstract\obj\Debug\CS_120_OOP_abstract.pdb

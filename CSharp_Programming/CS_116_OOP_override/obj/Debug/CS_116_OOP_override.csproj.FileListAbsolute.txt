@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_116_OOP_override\bin\Debug\CS_116_OOP_override.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_116_OOP_override\bin\Debug\CS_116_OOP_override.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_116_OOP_override\bin\Debug\CS_116_OOP_override.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_116_OOP_override\bin\Debug\CS_116_OOP_override.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_116_OOP_override\bin\Debug\CS_116_OOP_override.exe
+D:\KOPOAcademy\CSharp_Programming\CS_116_OOP_override\bin\Debug\CS_116_OOP_override.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.exe
+D:\KOPOAcademy\CSharp_Programming\CS_116_OOP_override\obj\Debug\CS_116_OOP_override.pdb

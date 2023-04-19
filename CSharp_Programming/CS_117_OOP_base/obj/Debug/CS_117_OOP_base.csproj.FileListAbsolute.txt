@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_117_OOP_base\bin\Debug\CS_117_OOP_base.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_117_OOP_base\bin\Debug\CS_117_OOP_base.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_117_OOP_base\bin\Debug\CS_117_OOP_base.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_117_OOP_base\bin\Debug\CS_117_OOP_base.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_117_OOP_base\bin\Debug\CS_117_OOP_base.exe
+D:\KOPOAcademy\CSharp_Programming\CS_117_OOP_base\bin\Debug\CS_117_OOP_base.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.exe
+D:\KOPOAcademy\CSharp_Programming\CS_117_OOP_base\obj\Debug\CS_117_OOP_base.pdb

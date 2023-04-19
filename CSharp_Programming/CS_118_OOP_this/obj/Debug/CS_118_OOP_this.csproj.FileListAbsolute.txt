@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_118_OOP_this\bin\Debug\CS_118_OOP_this.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_118_OOP_this\bin\Debug\CS_118_OOP_this.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_118_OOP_this\bin\Debug\CS_118_OOP_this.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_118_OOP_this\bin\Debug\CS_118_OOP_this.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_118_OOP_this\bin\Debug\CS_118_OOP_this.exe
+D:\KOPOAcademy\CSharp_Programming\CS_118_OOP_this\bin\Debug\CS_118_OOP_this.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.exe
+D:\KOPOAcademy\CSharp_Programming\CS_118_OOP_this\obj\Debug\CS_118_OOP_this.pdb
