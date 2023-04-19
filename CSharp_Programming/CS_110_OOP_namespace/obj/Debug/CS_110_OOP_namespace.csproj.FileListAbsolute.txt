@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_110_OOP_namespace\obj\Debug\CS_110_OOP_namespace.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_110_OOP_namespace\obj\Debug\CS_110_OOP_namespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_110_OOP_namespace\obj\Debug\CS_110_OOP_namespace.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_110_OOP_namespace\bin\Debug\CS_110_OOP_namespace.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_110_OOP_namespace\bin\Debug\CS_110_OOP_namespace.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_110_OOP_namespace\bin\Debug\CS_110_OOP_namespace.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_110_OOP_namespace\obj\Debug\CS_110_OOP_namespace.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_110_OOP_namespace\obj\Debug\CS_110_OOP_namespace.pdb

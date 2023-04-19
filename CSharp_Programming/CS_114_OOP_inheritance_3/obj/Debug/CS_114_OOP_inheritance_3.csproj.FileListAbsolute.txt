@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_114_OOP_inheritance_3\bin\Debug\CS_114_OOP_inheritance_3.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_114_OOP_inheritance_3\bin\Debug\CS_114_OOP_inheritance_3.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_114_OOP_inheritance_3\bin\Debug\CS_114_OOP_inheritance_3.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_114_OOP_inheritance_3\bin\Debug\CS_114_OOP_inheritance_3.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_114_OOP_inheritance_3\bin\Debug\CS_114_OOP_inheritance_3.exe
+D:\KOPOAcademy\CSharp_Programming\CS_114_OOP_inheritance_3\bin\Debug\CS_114_OOP_inheritance_3.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.exe
+D:\KOPOAcademy\CSharp_Programming\CS_114_OOP_inheritance_3\obj\Debug\CS_114_OOP_inheritance_3.pdb

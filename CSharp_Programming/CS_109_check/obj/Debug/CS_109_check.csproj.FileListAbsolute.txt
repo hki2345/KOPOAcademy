@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_109_check\bin\Debug\CS_109_check.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_109_check\bin\Debug\CS_109_check.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_109_check\bin\Debug\CS_109_check.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_109_check\obj\Debug\CS_109_check.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_109_check\obj\Debug\CS_109_check.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_109_check\obj\Debug\CS_109_check.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_109_check\obj\Debug\CS_109_check.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_109_check\obj\Debug\CS_109_check.pdb

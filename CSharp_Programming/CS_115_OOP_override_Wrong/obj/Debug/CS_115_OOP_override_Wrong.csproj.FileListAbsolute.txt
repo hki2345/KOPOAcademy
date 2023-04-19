@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_115_OOP_override_Wrong\bin\Debug\CS_115_OOP_override_Wrong.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_115_OOP_override_Wrong\bin\Debug\CS_115_OOP_override_Wrong.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_115_OOP_override_Wrong\bin\Debug\CS_115_OOP_override_Wrong.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_115_OOP_override_Wrong\bin\Debug\CS_115_OOP_override_Wrong.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_115_OOP_override_Wrong\bin\Debug\CS_115_OOP_override_Wrong.exe
+D:\KOPOAcademy\CSharp_Programming\CS_115_OOP_override_Wrong\bin\Debug\CS_115_OOP_override_Wrong.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.exe
+D:\KOPOAcademy\CSharp_Programming\CS_115_OOP_override_Wrong\obj\Debug\CS_115_OOP_override_Wrong.pdb

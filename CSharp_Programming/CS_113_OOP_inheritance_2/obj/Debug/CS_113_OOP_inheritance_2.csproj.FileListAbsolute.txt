@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_113_OOP_inheritance_2\bin\Debug\CS_113_OOP_inheritance_2.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_113_OOP_inheritance_2\bin\Debug\CS_113_OOP_inheritance_2.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_113_OOP_inheritance_2\bin\Debug\CS_113_OOP_inheritance_2.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_113_OOP_inheritance_2\obj\Debug\CS_113_OOP_inheritance_2.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_113_OOP_inheritance_2\obj\Debug\CS_113_OOP_inheritance_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_113_OOP_inheritance_2\obj\Debug\CS_113_OOP_inheritance_2.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_113_OOP_inheritance_2\obj\Debug\CS_113_OOP_inheritance_2.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_113_OOP_inheritance_2\obj\Debug\CS_113_OOP_inheritance_2.pdb

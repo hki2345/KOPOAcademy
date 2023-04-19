@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_111_OOP_using\bin\Debug\CS_111_OOP_using.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_111_OOP_using\bin\Debug\CS_111_OOP_using.exe
+D:\KOPOAcademy\CSharp_Programming\CS_111_OOP_using\bin\Debug\CS_111_OOP_using.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_111_OOP_using\obj\Debug\CS_111_OOP_using.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_111_OOP_using\obj\Debug\CS_111_OOP_using.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_111_OOP_using\obj\Debug\CS_111_OOP_using.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_111_OOP_using\obj\Debug\CS_111_OOP_using.exe
+D:\KOPOAcademy\CSharp_Programming\CS_111_OOP_using\obj\Debug\CS_111_OOP_using.pdb
