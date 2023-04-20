@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_139_FP_delegate_parameter\bin\Debug\CS_139_FP_delegate_parameter.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_139_FP_delegate_parameter\bin\Debug\CS_139_FP_delegate_parameter.exe
+D:\KOPOAcademy\CSharp_Programming\CS_139_FP_delegate_parameter\bin\Debug\CS_139_FP_delegate_parameter.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_139_FP_delegate_parameter\obj\Debug\CS_139_FP_delegate_parameter.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_139_FP_delegate_parameter\obj\Debug\CS_139_FP_delegate_parameter.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_139_FP_delegate_parameter\obj\Debug\CS_139_FP_delegate_parameter.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_139_FP_delegate_parameter\obj\Debug\CS_139_FP_delegate_parameter.exe
+D:\KOPOAcademy\CSharp_Programming\CS_139_FP_delegate_parameter\obj\Debug\CS_139_FP_delegate_parameter.pdb

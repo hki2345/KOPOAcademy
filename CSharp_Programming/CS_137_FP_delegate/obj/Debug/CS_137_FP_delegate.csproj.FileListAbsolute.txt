@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_137_FP_delegate\bin\Debug\CS_137_FP_delegate.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_137_FP_delegate\bin\Debug\CS_137_FP_delegate.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_137_FP_delegate\bin\Debug\CS_137_FP_delegate.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_137_FP_delegate\obj\Debug\CS_137_FP_delegate.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_137_FP_delegate\obj\Debug\CS_137_FP_delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_137_FP_delegate\obj\Debug\CS_137_FP_delegate.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_137_FP_delegate\obj\Debug\CS_137_FP_delegate.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_137_FP_delegate\obj\Debug\CS_137_FP_delegate.pdb

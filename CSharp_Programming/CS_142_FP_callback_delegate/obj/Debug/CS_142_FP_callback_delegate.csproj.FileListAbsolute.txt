@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_142_FP_callback_delegate\bin\Debug\CS_142_FP_callback_delegate.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_142_FP_callback_delegate\bin\Debug\CS_142_FP_callback_delegate.exe
+D:\KOPOAcademy\CSharp_Programming\CS_142_FP_callback_delegate\bin\Debug\CS_142_FP_callback_delegate.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_142_FP_callback_delegate\obj\Debug\CS_142_FP_callback_delegate.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_142_FP_callback_delegate\obj\Debug\CS_142_FP_callback_delegate.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_142_FP_callback_delegate\obj\Debug\CS_142_FP_callback_delegate.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_142_FP_callback_delegate\obj\Debug\CS_142_FP_callback_delegate.exe
+D:\KOPOAcademy\CSharp_Programming\CS_142_FP_callback_delegate\obj\Debug\CS_142_FP_callback_delegate.pdb
