@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_132_OOP_readonly\bin\Debug\CS_132_OOP_readonly.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_132_OOP_readonly\bin\Debug\CS_132_OOP_readonly.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_132_OOP_readonly\bin\Debug\CS_132_OOP_readonly.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_132_OOP_readonly\obj\Debug\CS_132_OOP_readonly.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_132_OOP_readonly\obj\Debug\CS_132_OOP_readonly.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_132_OOP_readonly\obj\Debug\CS_132_OOP_readonly.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_132_OOP_readonly\obj\Debug\CS_132_OOP_readonly.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_132_OOP_readonly\obj\Debug\CS_132_OOP_readonly.pdb

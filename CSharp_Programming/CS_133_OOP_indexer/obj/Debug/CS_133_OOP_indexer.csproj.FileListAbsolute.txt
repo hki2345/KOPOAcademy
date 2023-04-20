@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_133_OOP_indexer\bin\Debug\CS_133_OOP_indexer.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_133_OOP_indexer\bin\Debug\CS_133_OOP_indexer.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_133_OOP_indexer\bin\Debug\CS_133_OOP_indexer.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_133_OOP_indexer\bin\Debug\CS_133_OOP_indexer.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_133_OOP_indexer\bin\Debug\CS_133_OOP_indexer.exe
+D:\KOPOAcademy\CSharp_Programming\CS_133_OOP_indexer\bin\Debug\CS_133_OOP_indexer.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.exe
+D:\KOPOAcademy\CSharp_Programming\CS_133_OOP_indexer\obj\Debug\CS_133_OOP_indexer.pdb

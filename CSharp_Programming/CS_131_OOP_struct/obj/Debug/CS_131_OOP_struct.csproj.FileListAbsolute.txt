@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_131_OOP_struct\bin\Debug\CS_131_OOP_struct.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_131_OOP_struct\bin\Debug\CS_131_OOP_struct.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_131_OOP_struct\bin\Debug\CS_131_OOP_struct.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_131_OOP_struct\bin\Debug\CS_131_OOP_struct.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_131_OOP_struct\bin\Debug\CS_131_OOP_struct.exe
+D:\KOPOAcademy\CSharp_Programming\CS_131_OOP_struct\bin\Debug\CS_131_OOP_struct.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.exe
+D:\KOPOAcademy\CSharp_Programming\CS_131_OOP_struct\obj\Debug\CS_131_OOP_struct.pdb

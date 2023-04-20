@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_135_OOP_implicit\bin\Debug\CS_135_OOP_implicit.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_135_OOP_implicit\bin\Debug\CS_135_OOP_implicit.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_135_OOP_implicit\bin\Debug\CS_135_OOP_implicit.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_135_OOP_implicit\obj\Debug\CS_135_OOP_implicit.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_135_OOP_implicit\obj\Debug\CS_135_OOP_implicit.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_135_OOP_implicit\obj\Debug\CS_135_OOP_implicit.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_135_OOP_implicit\obj\Debug\CS_135_OOP_implicit.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_135_OOP_implicit\obj\Debug\CS_135_OOP_implicit.pdb
