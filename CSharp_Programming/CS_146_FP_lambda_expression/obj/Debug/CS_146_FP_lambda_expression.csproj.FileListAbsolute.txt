@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_146_FP_lambda_expression\bin\Debug\CS_146_FP_lambda_expression.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_146_FP_lambda_expression\bin\Debug\CS_146_FP_lambda_expression.exe
+D:\KOPOAcademy\CSharp_Programming\CS_146_FP_lambda_expression\bin\Debug\CS_146_FP_lambda_expression.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_146_FP_lambda_expression\obj\Debug\CS_146_FP_lambda_expression.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_146_FP_lambda_expression\obj\Debug\CS_146_FP_lambda_expression.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_146_FP_lambda_expression\obj\Debug\CS_146_FP_lambda_expression.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_146_FP_lambda_expression\obj\Debug\CS_146_FP_lambda_expression.exe
+D:\KOPOAcademy\CSharp_Programming\CS_146_FP_lambda_expression\obj\Debug\CS_146_FP_lambda_expression.pdb
