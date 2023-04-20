@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_128_OOP_partial\bin\Debug\CS_128_OOP_partial.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_128_OOP_partial\bin\Debug\CS_128_OOP_partial.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_128_OOP_partial\bin\Debug\CS_128_OOP_partial.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_128_OOP_partial\obj\Debug\CS_128_OOP_partial.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_128_OOP_partial\obj\Debug\CS_128_OOP_partial.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_128_OOP_partial\obj\Debug\CS_128_OOP_partial.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_128_OOP_partial\obj\Debug\CS_128_OOP_partial.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_128_OOP_partial\obj\Debug\CS_128_OOP_partial.pdb

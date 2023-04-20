@@ -1,0 +1,3 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_126_OOP_nested_class\obj\Debug\CS_126_OOP_nested_class.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_126_OOP_nested_class\obj\Debug\CS_126_OOP_nested_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_126_OOP_nested_class\obj\Debug\CS_126_OOP_nested_class.csproj.CoreCompileInputs.cache

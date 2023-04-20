@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_127_OOP_sealed\bin\Debug\CS_127_OOP_sealed.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_127_OOP_sealed\bin\Debug\CS_127_OOP_sealed.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_127_OOP_sealed\bin\Debug\CS_127_OOP_sealed.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_127_OOP_sealed\obj\Debug\CS_127_OOP_sealed.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_127_OOP_sealed\obj\Debug\CS_127_OOP_sealed.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_127_OOP_sealed\obj\Debug\CS_127_OOP_sealed.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_127_OOP_sealed\obj\Debug\CS_127_OOP_sealed.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_127_OOP_sealed\obj\Debug\CS_127_OOP_sealed.pdb

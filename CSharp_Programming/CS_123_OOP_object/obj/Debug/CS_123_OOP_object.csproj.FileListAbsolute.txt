@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_123_OOP_object\bin\Debug\CS_123_OOP_object.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_123_OOP_object\bin\Debug\CS_123_OOP_object.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_123_OOP_object\bin\Debug\CS_123_OOP_object.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_123_OOP_object\bin\Debug\CS_123_OOP_object.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_123_OOP_object\bin\Debug\CS_123_OOP_object.exe
+D:\KOPOAcademy\CSharp_Programming\CS_123_OOP_object\bin\Debug\CS_123_OOP_object.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.exe
+D:\KOPOAcademy\CSharp_Programming\CS_123_OOP_object\obj\Debug\CS_123_OOP_object.pdb

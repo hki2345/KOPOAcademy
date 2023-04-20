@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_124_OOP_is_as\bin\Debug\CS_124_OOP_is_as.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_124_OOP_is_as\bin\Debug\CS_124_OOP_is_as.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_124_OOP_is_as\bin\Debug\CS_124_OOP_is_as.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_124_OOP_is_as\bin\Debug\CS_124_OOP_is_as.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_124_OOP_is_as\bin\Debug\CS_124_OOP_is_as.exe
+D:\KOPOAcademy\CSharp_Programming\CS_124_OOP_is_as\bin\Debug\CS_124_OOP_is_as.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.exe
+D:\KOPOAcademy\CSharp_Programming\CS_124_OOP_is_as\obj\Debug\CS_124_OOP_is_as.pdb

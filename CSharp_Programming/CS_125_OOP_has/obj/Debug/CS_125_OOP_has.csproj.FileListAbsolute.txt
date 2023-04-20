@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_125_OOP_has\bin\Debug\CS_125_OOP_has.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_125_OOP_has\bin\Debug\CS_125_OOP_has.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_125_OOP_has\bin\Debug\CS_125_OOP_has.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_125_OOP_has\obj\Debug\CS_125_OOP_has.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_125_OOP_has\obj\Debug\CS_125_OOP_has.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_125_OOP_has\obj\Debug\CS_125_OOP_has.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_125_OOP_has\obj\Debug\CS_125_OOP_has.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_125_OOP_has\obj\Debug\CS_125_OOP_has.pdb
