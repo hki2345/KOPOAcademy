@@ -3,7 +3,7 @@ import numpy as np
 import cv2 as cv
 
 
-mPlayerCount = 150
+mPlayerCount = 250
 class Player:
     def __init__(self) -> None:
         self.coin = 10
@@ -46,6 +46,25 @@ def ThrowDice(user):
         isSame = False
 
     return sum, isSame
+
+def SetGame(): 
+    for i in playerList:
+        ## 코인이 읎다.
+        if not CheckCoin(i):
+            continue
+
+        ## 코인이 있당
+        i.coin -= 1
+        diceScore = 0
+        result = ThrowDice(i)
+        diceScore += result[0]
+
+        ## 한 번만 더 한다.
+        if result[1] == True:
+            result = ThrowDice(i)
+            diceScore += result[0]
+
+        i.nowScore = diceScore
 
 def CheckDiceScore():
     scoreList = list()
@@ -104,25 +123,17 @@ def PrintBox():
     cv.imshow("test", img)
     cv.waitKey(100)
 
-while(CheckGameisOver()):
+def ResetGame():
     for i in playerList:
-        ## 코인이 읎다.
-        if not CheckCoin(i):
-            continue
+        i.coin = 10
+        i.diceCount = 2
+        i.score = 0
+        i.nowScore = 0
 
-        ## 코인이 있당
-        i.coin -= 1
-        diceScore = 0
-        result = ThrowDice(i)
-        diceScore += result[0]
-
-        ## 한 번만 더 한다.
-        if result[1] == True:
-            result = ThrowDice(i)
-            diceScore += result[0]
-
-        i.nowScore = diceScore
-
+while(True):
+    if not CheckGameisOver():
+        ResetGame()
+    SetGame()
     CheckDiceScore()
     SetDiceScore()
     PrintBox()
