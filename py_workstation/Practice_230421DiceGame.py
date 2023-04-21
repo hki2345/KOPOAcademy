@@ -73,6 +73,36 @@ def CheckCoin(user):
     
     return True
 
+
+def PrintBox():
+    width = 1024
+    height = 350
+    depth =3
+
+    thickness = -1
+    offset_x = 1
+    offset_y = 4
+    x = 1
+    y = 6
+    screen_start_x = 10
+    screen_start_y = 300
+    bgr = (0, 255, 0)
+
+    img = np.zeros(shape = (height, width, depth)) # img = npzeros((height, width, depth), np.uint8)
+
+    for i in range(1000):
+
+        for j in range(mPlayerCount):
+            if i >= playerList[j].score:
+                continue
+            
+            start_x = screen_start_x + i * x
+            start_y = screen_start_y - j * y
+            cv.rectangle(img, (start_x, start_y), (start_x + offset_x, start_y + offset_y), bgr, thickness)
+
+    cv.imshow("test", img)
+    cv.waitKey(100)
+
 while(CheckGameisOver()):
     for i in playerList:
         ## 코인이 읎다.
@@ -94,33 +124,9 @@ while(CheckGameisOver()):
 
     CheckDiceScore()
     SetDiceScore()
+    PrintBox()
 
 
 
-width = 1024
-height = 350
-depth =3
 
-thickness = -1
-offset_x = 1
-offset_y = 4
-x = 1
-y = 6
-screen_start_x = 10
-screen_start_y = 300
-bgr = (0, 255, 0)
 
-img = np.zeros(shape = (height, width, depth)) # img = npzeros((height, width, depth), np.uint8)
-
-for i in range(1000):
-
-    for j in range(mPlayerCount):
-        if i >= playerList[j].score:
-            continue
-        
-        start_x = screen_start_x + i * x
-        start_y = screen_start_y - j * y
-        cv.rectangle(img, (start_x, start_y), (start_x + offset_x, start_y + offset_y), bgr, thickness)
-
-cv.imshow("test", img)
-cv.waitKey(10000)
