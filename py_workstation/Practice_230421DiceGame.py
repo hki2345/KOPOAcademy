@@ -56,7 +56,9 @@ def CheckDiceScore():
     minValue = min(scoreList)
 
     for i in playerList:
-        if i.nowScore == maxValue:
+        if i.nowScore == 0:
+            continue
+        elif i.nowScore == maxValue:
             i.nowScore *= 2
         elif i.nowScore == minValue:
             i.nowScore -= 30
@@ -76,7 +78,7 @@ def CheckCoin(user):
 
 def PrintBox():
     width = 1024
-    height = 350
+    height = 7 * mPlayerCount
     depth =3
 
     thickness = -1
@@ -85,7 +87,7 @@ def PrintBox():
     x = 1
     y = 6
     screen_start_x = 10
-    screen_start_y = 300
+    screen_start_y = 6 * mPlayerCount
     bgr = (0, 255, 0)
 
     img = np.zeros(shape = (height, width, depth)) # img = npzeros((height, width, depth), np.uint8)
@@ -125,8 +127,3 @@ while(CheckGameisOver()):
     CheckDiceScore()
     SetDiceScore()
     PrintBox()
-
-
-
-
-
