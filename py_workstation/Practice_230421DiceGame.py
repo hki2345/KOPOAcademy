@@ -86,6 +86,9 @@ def CheckDiceScore():
 def SetDiceScore():
     for i in playerList:
         i.score += i.nowScore
+
+        if i.score < 0:
+            i.score = 0
         i.nowScore = 0
 
 def CheckCoin(user):
