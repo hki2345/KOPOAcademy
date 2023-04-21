@@ -3,13 +3,14 @@ import numpy as np
 import cv2 as cv
 
 
-mPlayerCount = 50
+mPlayerCount = 150
 class Player:
     def __init__(self) -> None:
         self.coin = 10
         self.diceCount = 2
         self.score = 0
         self.nowScore = 0
+
 
 playerList = list()
 for i in range(mPlayerCount):
@@ -77,29 +78,27 @@ def CheckCoin(user):
 
 
 def PrintBox():
-    width = 1024
-    height = 7 * mPlayerCount
+    x = 7
+    y = 1
+    width = x * mPlayerCount + 20
+    height = 510
     depth =3
 
     thickness = -1
-    offset_x = 1
-    offset_y = 4
-    x = 1
-    y = 6
+    offset_x = 5
+    offset_y = 1
     screen_start_x = 10
-    screen_start_y = 6 * mPlayerCount
+    screen_start_y = height - 10
     bgr = (0, 255, 0)
 
     img = np.zeros(shape = (height, width, depth)) # img = npzeros((height, width, depth), np.uint8)
 
-    for i in range(1000):
-
-        for j in range(mPlayerCount):
-            if i >= playerList[j].score:
-                continue
+    for i in range(mPlayerCount):
+        
+        for j in range(playerList[i].score):
             
             start_x = screen_start_x + i * x
-            start_y = screen_start_y - j * y
+            start_y = screen_start_y - int(j * y / 2)
             cv.rectangle(img, (start_x, start_y), (start_x + offset_x, start_y + offset_y), bgr, thickness)
 
     cv.imshow("test", img)
