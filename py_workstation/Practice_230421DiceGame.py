@@ -2,14 +2,26 @@ import random as rd
 import numpy as np
 import cv2 as cv
 
+## pip install opencv-python
+## cv 설치 코드 - 터미널이나 cmd 에 작성
 
-mPlayerCount = 250
+
+mPlayerCount = 50
 class Player:
     def __init__(self) -> None:
         self.coin = 10
         self.diceCount = 2
         self.score = 0
         self.nowScore = 0
+
+        r = 0; g = 0; b = 0
+
+        while r == 0 and g == 0 and b == 0:
+            r = rd.randint(0, 1)
+            g = rd.randint(0, 1)
+            b = rd.randint(0, 1)
+
+        self.color = (r * 255, g * 255, b * 255)
 
 
 playerList = list()
@@ -100,18 +112,17 @@ def CheckCoin(user):
 
 
 def PrintBox():
-    x = 7
+    x = 25
     y = 1
     width = x * mPlayerCount + 20
-    height = 510
+    height = 610
     depth =3
 
     thickness = -1
-    offset_x = 5
+    offset_x = int(x * .25)
     offset_y = 1
-    screen_start_x = 10
-    screen_start_y = height - 10
-    bgr = (0, 255, 0)
+    screen_start_x = 15
+    screen_start_y = height - 110
 
     img = np.zeros(shape = (height, width, depth)) # img = npzeros((height, width, depth), np.uint8)
 
@@ -121,10 +132,13 @@ def PrintBox():
             
             start_x = screen_start_x + i * x
             start_y = screen_start_y - int(j * y / 2)
-            cv.rectangle(img, (start_x, start_y), (start_x + offset_x, start_y + offset_y), bgr, thickness)
+            cv.rectangle(img, (start_x, start_y), (start_x + offset_x, start_y + offset_y), playerList[i].color, thickness)
+            cv.putText(img, str(playerList[i].score), (start_x - 10, screen_start_y+25), cv.FONT_HERSHEY_SIMPLEX, 0.35, (255, 255, 255), 1, cv.LINE_AA)        
+            cv.putText(img, str(playerList[i].coin), (start_x - 10, screen_start_y+50), cv.FONT_HERSHEY_SIMPLEX, 0.35, (255, 255, 255), 1, cv.LINE_AA)        
+            
 
     cv.imshow("test", img)
-    cv.waitKey(100)
+    cv.waitKey(100)     
 
 def ResetGame():
     for i in playerList:
