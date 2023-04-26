@@ -1,8 +1,0 @@
-D:\KOPOAcademy\CSharp_Programming\CS_149_Stack\bin\Debug\CS_149_Stack.exe.config
-D:\KOPOAcademy\CSharp_Programming\CS_149_Stack\bin\Debug\CS_149_Stack.exe
-D:\KOPOAcademy\CSharp_Programming\CS_149_Stack\bin\Debug\CS_149_Stack.pdb
-D:\KOPOAcademy\CSharp_Programming\CS_149_Stack\obj\Debug\CS_149_Stack.csproj.AssemblyReference.cache
-D:\KOPOAcademy\CSharp_Programming\CS_149_Stack\obj\Debug\CS_149_Stack.csproj.SuggestedBindingRedirects.cache
-D:\KOPOAcademy\CSharp_Programming\CS_149_Stack\obj\Debug\CS_149_Stack.csproj.CoreCompileInputs.cache
-D:\KOPOAcademy\CSharp_Programming\CS_149_Stack\obj\Debug\CS_149_Stack.exe
-D:\KOPOAcademy\CSharp_Programming\CS_149_Stack\obj\Debug\CS_149_Stack.pdb
