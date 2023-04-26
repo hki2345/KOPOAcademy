@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_162_Generic_Action_4\obj\Debug\CS_162_Generic_Action_4.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_162_Generic_Action_4\obj\Debug\CS_162_Generic_Action_4.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_162_Generic_Action_4\obj\Debug\CS_162_Generic_Action_4.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_162_Generic_Action_4\bin\Debug\CS_162_Generic_Action_4.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_162_Generic_Action_4\bin\Debug\CS_162_Generic_Action_4.exe
+D:\KOPOAcademy\CSharp_Programming\CS_162_Generic_Action_4\bin\Debug\CS_162_Generic_Action_4.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_162_Generic_Action_4\obj\Debug\CS_162_Generic_Action_4.exe
+D:\KOPOAcademy\CSharp_Programming\CS_162_Generic_Action_4\obj\Debug\CS_162_Generic_Action_4.pdb

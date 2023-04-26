@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_166_Generic_ValueTuple_1\bin\Debug\CS_166_Generic_ValueTuple_1.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_166_Generic_ValueTuple_1\bin\Debug\CS_166_Generic_ValueTuple_1.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_166_Generic_ValueTuple_1\bin\Debug\CS_166_Generic_ValueTuple_1.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.pdb
+C:\Users\KOPO\Downloads\Programming_Learning\CS_166_Generic_ValueTuple_1\bin\Debug\CS_166_Generic_ValueTuple_1.exe.config
+C:\Users\KOPO\Downloads\Programming_Learning\CS_166_Generic_ValueTuple_1\bin\Debug\CS_166_Generic_ValueTuple_1.exe
+C:\Users\KOPO\Downloads\Programming_Learning\CS_166_Generic_ValueTuple_1\bin\Debug\CS_166_Generic_ValueTuple_1.pdb
+C:\Users\KOPO\Downloads\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.csproj.AssemblyReference.cache
+C:\Users\KOPO\Downloads\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOPO\Downloads\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.csproj.CoreCompileInputs.cache
+C:\Users\KOPO\Downloads\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.exe
+C:\Users\KOPO\Downloads\Programming_Learning\CS_166_Generic_ValueTuple_1\obj\Debug\CS_166_Generic_ValueTuple_1.pdb

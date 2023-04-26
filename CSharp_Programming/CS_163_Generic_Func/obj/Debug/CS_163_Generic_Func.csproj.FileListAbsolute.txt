@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_163_Generic_Func\bin\Debug\CS_163_Generic_Func.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_163_Generic_Func\bin\Debug\CS_163_Generic_Func.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_163_Generic_Func\bin\Debug\CS_163_Generic_Func.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_163_Generic_Func\obj\Debug\CS_163_Generic_Func.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_163_Generic_Func\obj\Debug\CS_163_Generic_Func.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_163_Generic_Func\obj\Debug\CS_163_Generic_Func.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_163_Generic_Func\obj\Debug\CS_163_Generic_Func.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_163_Generic_Func\obj\Debug\CS_163_Generic_Func.pdb
