@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_169_Generic_Collection_2\bin\Debug\CS_169_Generic_Collection_2.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_169_Generic_Collection_2\bin\Debug\CS_169_Generic_Collection_2.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_169_Generic_Collection_2\bin\Debug\CS_169_Generic_Collection_2.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_169_Generic_Collection_2\obj\Debug\CS_169_Generic_Collection_2.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_169_Generic_Collection_2\obj\Debug\CS_169_Generic_Collection_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_169_Generic_Collection_2\obj\Debug\CS_169_Generic_Collection_2.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_169_Generic_Collection_2\obj\Debug\CS_169_Generic_Collection_2.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_169_Generic_Collection_2\obj\Debug\CS_169_Generic_Collection_2.pdb
