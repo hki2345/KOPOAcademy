@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_155_Generic_function\bin\Debug\CS_155_Generic_function.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_155_Generic_function\bin\Debug\CS_155_Generic_function.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_155_Generic_function\bin\Debug\CS_155_Generic_function.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_155_Generic_function\bin\Debug\CS_155_Generic_function.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_155_Generic_function\bin\Debug\CS_155_Generic_function.exe
+D:\KOPOAcademy\CSharp_Programming\CS_155_Generic_function\bin\Debug\CS_155_Generic_function.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.exe
+D:\KOPOAcademy\CSharp_Programming\CS_155_Generic_function\obj\Debug\CS_155_Generic_function.pdb
