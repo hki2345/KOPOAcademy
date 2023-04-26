@@ -1,0 +1,8 @@
+D:\KOPOAcademy\CSharp_Programming\CS_151_Hashtable_1\bin\Debug\CS_151_Hashtable_1.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_151_Hashtable_1\bin\Debug\CS_151_Hashtable_1.exe
+D:\KOPOAcademy\CSharp_Programming\CS_151_Hashtable_1\bin\Debug\CS_151_Hashtable_1.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_151_Hashtable_1\obj\Debug\CS_151_Hashtable_1.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_151_Hashtable_1\obj\Debug\CS_151_Hashtable_1.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_151_Hashtable_1\obj\Debug\CS_151_Hashtable_1.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_151_Hashtable_1\obj\Debug\CS_151_Hashtable_1.exe
+D:\KOPOAcademy\CSharp_Programming\CS_151_Hashtable_1\obj\Debug\CS_151_Hashtable_1.pdb
