@@ -1,8 +1,0 @@
-D:\KOPOAcademy\CSharp_Programming\CS_150_Queue\bin\Debug\CS_150_Queue.exe.config
-D:\KOPOAcademy\CSharp_Programming\CS_150_Queue\bin\Debug\CS_150_Queue.exe
-D:\KOPOAcademy\CSharp_Programming\CS_150_Queue\bin\Debug\CS_150_Queue.pdb
-D:\KOPOAcademy\CSharp_Programming\CS_150_Queue\obj\Debug\CS_150_Queue.csproj.AssemblyReference.cache
-D:\KOPOAcademy\CSharp_Programming\CS_150_Queue\obj\Debug\CS_150_Queue.csproj.SuggestedBindingRedirects.cache
-D:\KOPOAcademy\CSharp_Programming\CS_150_Queue\obj\Debug\CS_150_Queue.csproj.CoreCompileInputs.cache
-D:\KOPOAcademy\CSharp_Programming\CS_150_Queue\obj\Debug\CS_150_Queue.exe
-D:\KOPOAcademy\CSharp_Programming\CS_150_Queue\obj\Debug\CS_150_Queue.pdb
