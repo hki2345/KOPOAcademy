@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_183_LINQ_select\bin\Debug\CS_183_LINQ_select.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_183_LINQ_select\bin\Debug\CS_183_LINQ_select.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_183_LINQ_select\bin\Debug\CS_183_LINQ_select.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_183_LINQ_select\obj\Debug\CS_183_LINQ_select.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_183_LINQ_select\obj\Debug\CS_183_LINQ_select.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_183_LINQ_select\obj\Debug\CS_183_LINQ_select.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_183_LINQ_select\obj\Debug\CS_183_LINQ_select.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_183_LINQ_select\obj\Debug\CS_183_LINQ_select.pdb

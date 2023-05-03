@@ -1,0 +1,8 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_182_LINQ_anonymous_type\bin\Debug\CS_182_LINQ_anonymous_type.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_182_LINQ_anonymous_type\bin\Debug\CS_182_LINQ_anonymous_type.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_182_LINQ_anonymous_type\bin\Debug\CS_182_LINQ_anonymous_type.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_182_LINQ_anonymous_type\obj\Debug\CS_182_LINQ_anonymous_type.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_182_LINQ_anonymous_type\obj\Debug\CS_182_LINQ_anonymous_type.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_182_LINQ_anonymous_type\obj\Debug\CS_182_LINQ_anonymous_type.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_182_LINQ_anonymous_type\obj\Debug\CS_182_LINQ_anonymous_type.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_182_LINQ_anonymous_type\obj\Debug\CS_182_LINQ_anonymous_type.pdb

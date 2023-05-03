@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_186_LINQ_join\bin\Debug\CS_186_LINQ_join.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_186_LINQ_join\bin\Debug\CS_186_LINQ_join.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_186_LINQ_join\bin\Debug\CS_186_LINQ_join.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_186_LINQ_join\bin\Debug\CS_186_LINQ_join.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_186_LINQ_join\bin\Debug\CS_186_LINQ_join.exe
+D:\KOPOAcademy\CSharp_Programming\CS_186_LINQ_join\bin\Debug\CS_186_LINQ_join.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.exe
+D:\KOPOAcademy\CSharp_Programming\CS_186_LINQ_join\obj\Debug\CS_186_LINQ_join.pdb

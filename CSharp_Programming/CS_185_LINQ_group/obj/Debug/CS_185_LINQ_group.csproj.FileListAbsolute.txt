@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_185_LINQ_group\bin\Debug\CS_185_LINQ_group.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_185_LINQ_group\bin\Debug\CS_185_LINQ_group.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_185_LINQ_group\bin\Debug\CS_185_LINQ_group.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_185_LINQ_group\bin\Debug\CS_185_LINQ_group.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_185_LINQ_group\bin\Debug\CS_185_LINQ_group.exe
+D:\KOPOAcademy\CSharp_Programming\CS_185_LINQ_group\bin\Debug\CS_185_LINQ_group.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.exe
+D:\KOPOAcademy\CSharp_Programming\CS_185_LINQ_group\obj\Debug\CS_185_LINQ_group.pdb

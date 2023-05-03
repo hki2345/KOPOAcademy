@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_184_LINQ_orderby\bin\Debug\CS_184_LINQ_orderby.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_184_LINQ_orderby\bin\Debug\CS_184_LINQ_orderby.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_184_LINQ_orderby\bin\Debug\CS_184_LINQ_orderby.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_184_LINQ_orderby\bin\Debug\CS_184_LINQ_orderby.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_184_LINQ_orderby\bin\Debug\CS_184_LINQ_orderby.exe
+D:\KOPOAcademy\CSharp_Programming\CS_184_LINQ_orderby\bin\Debug\CS_184_LINQ_orderby.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.exe
+D:\KOPOAcademy\CSharp_Programming\CS_184_LINQ_orderby\obj\Debug\CS_184_LINQ_orderby.pdb
