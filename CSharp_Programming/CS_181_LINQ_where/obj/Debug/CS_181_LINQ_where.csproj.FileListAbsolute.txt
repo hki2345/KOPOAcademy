@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_181_LINQ_where\bin\Debug\CS_181_LINQ_where.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_181_LINQ_where\bin\Debug\CS_181_LINQ_where.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_181_LINQ_where\bin\Debug\CS_181_LINQ_where.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_181_LINQ_where\bin\Debug\CS_181_LINQ_where.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_181_LINQ_where\bin\Debug\CS_181_LINQ_where.exe
+D:\KOPOAcademy\CSharp_Programming\CS_181_LINQ_where\bin\Debug\CS_181_LINQ_where.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.exe
+D:\KOPOAcademy\CSharp_Programming\CS_181_LINQ_where\obj\Debug\CS_181_LINQ_where.pdb
