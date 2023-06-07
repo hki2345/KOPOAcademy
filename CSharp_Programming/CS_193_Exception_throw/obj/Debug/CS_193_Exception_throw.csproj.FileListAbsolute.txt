@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_193_Exception_throw\bin\Debug\CS_193_Exception_throw.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_193_Exception_throw\bin\Debug\CS_193_Exception_throw.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_193_Exception_throw\bin\Debug\CS_193_Exception_throw.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_193_Exception_throw\bin\Debug\CS_193_Exception_throw.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_193_Exception_throw\bin\Debug\CS_193_Exception_throw.exe
+D:\KOPOAcademy\CSharp_Programming\CS_193_Exception_throw\bin\Debug\CS_193_Exception_throw.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.exe
+D:\KOPOAcademy\CSharp_Programming\CS_193_Exception_throw\obj\Debug\CS_193_Exception_throw.pdb

@@ -1,0 +1,16 @@
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_195_Exception_custom\bin\Debug\CS_195_Exception_custom.exe.config
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_195_Exception_custom\bin\Debug\CS_195_Exception_custom.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_195_Exception_custom\bin\Debug\CS_195_Exception_custom.pdb
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.csproj.AssemblyReference.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.csproj.SuggestedBindingRedirects.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.csproj.CoreCompileInputs.cache
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.exe
+C:\Users\JangHyeonung\Documents\Projects\Programming_Learning\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_195_Exception_custom\bin\Debug\CS_195_Exception_custom.exe.config
+D:\KOPOAcademy\CSharp_Programming\CS_195_Exception_custom\bin\Debug\CS_195_Exception_custom.exe
+D:\KOPOAcademy\CSharp_Programming\CS_195_Exception_custom\bin\Debug\CS_195_Exception_custom.pdb
+D:\KOPOAcademy\CSharp_Programming\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.csproj.AssemblyReference.cache
+D:\KOPOAcademy\CSharp_Programming\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\CSharp_Programming\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\CSharp_Programming\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.exe
+D:\KOPOAcademy\CSharp_Programming\CS_195_Exception_custom\obj\Debug\CS_195_Exception_custom.pdb
