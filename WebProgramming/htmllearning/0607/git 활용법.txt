@@ -50,3 +50,5 @@
 
     • 원격 저장소 브랜치로 갱신하기 : git pull origin [브랜치]
         ○ 예시 : git pull origin main
+
+    • 특정 확장자 제거 : git ignore
