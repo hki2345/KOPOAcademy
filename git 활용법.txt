@@ -1,0 +1,54 @@
+1. git 구글에 쳐서 다운로드
+2. 옵션 LFS 추가, 경로 지정
+3. 옵션 코드 정리
+자주 사용하는 명령어
+    • 전역설정 : git config --global [키] [값]
+        ○ git config --global core.autocrlf true
+        ○ git config --global core.safecrlf true
+        ○ git config --global user.name {내 ID}
+        ○ git config --global user.email {내 메일 ID}@gmail.com
+        ○ git config --global init.defaultBranch main
+    • 전역설정 확인 : git config --global --list
+
+    • 형상관리 시작 : git init
+
+    • 스테이지 등록 : git add .
+    • 형상관리 상태 확인 : git status
+
+    • 커밋 : git commit -m [주제]
+        ○ 예시 1 : git commit -m 'Create project'
+        ○ 예시 2 : git commit -m '게시판 필터링 기능 추가'
+    • 형상관리 버전 기록 조회 : git log
+
+    • 원격 저장소 등록 : git remote add origin [주소]
+        ○ 예시 : git remote add origin https://github.com/{내 ID}/{내 보관소}.git
+    • 원격 저장소 푸시 : git push origin [브랜치]
+        ○ 예시 : git push origin main
+
+    • 브랜치 목록 조회 : git branch
+        ○ 원격 저장소 브랜치 목록 : git branch -r
+        ○ 모든 브랜치 목록 : git branch -a
+    • 브랜치 추가 : git branch [브랜치]
+        ○ 예시 1 : git branch signin
+        ○ 예시 2 : git branch feature/notice-board-filtering
+    • 브랜치 전환 : git checkout [브랜치]
+        ○ 예시 : git checkout signin
+    • 브랜치 추가 및 전환 : git checkout -b [브랜치]
+        ○ 예시 : git checkout -b signin
+    • 브랜치 삭제 : git branch -d [브랜치]
+        ○ 예시 : git branch -d signin
+
+    • 형상관리 버전 되돌리기 : git reset --hard HEAD~[n]
+        ○ 한 버전 되돌리기 : git reset --hard HEAD~1
+        ○ 두 버전 되돌리기 : git reset --hard HEAD~2
+    • 형상관리 버전 되돌리기 취소 : git reset --hard ORIG_HEAD
+
+    • 원격 저장소 프로젝트 불러오기 : git clone [주소]
+        ○ 예시 : git clone https://github.com/{내 ID}/{내 보관소}.git
+    • 원격 저장소 브랜치 불러오기 및 전환 : git checkout -t origin/[브랜치]
+        ○ 예시 : git checkout -t origin/signin
+
+    • 원격 저장소 브랜치로 갱신하기 : git pull origin [브랜치]
+        ○ 예시 : git pull origin main
+
+    • 특정 확장자 제거 : git ignore
