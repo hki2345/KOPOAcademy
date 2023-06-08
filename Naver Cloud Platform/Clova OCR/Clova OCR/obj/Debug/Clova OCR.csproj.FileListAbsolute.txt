@@ -1,0 +1,11 @@
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\bin\Debug\Clova OCR.exe.config
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\bin\Debug\Clova OCR.exe
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\bin\Debug\Clova OCR.pdb
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\bin\Debug\Newtonsoft.Json.dll
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\bin\Debug\Newtonsoft.Json.xml
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\obj\Debug\Clova OCR.csproj.AssemblyReference.cache
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\obj\Debug\Clova OCR.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\obj\Debug\Clova OCR.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\obj\Debug\Clova OCR.csproj.CopyComplete
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\obj\Debug\Clova OCR.exe
+D:\KOPOAcademy\Naver Cloud Platform\Clova OCR\Clova OCR\obj\Debug\Clova OCR.pdb

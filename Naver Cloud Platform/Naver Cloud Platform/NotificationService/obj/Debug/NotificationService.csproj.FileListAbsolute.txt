@@ -1,0 +1,11 @@
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\bin\Debug\NotificationService.exe.config
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\bin\Debug\NotificationService.exe
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\bin\Debug\NotificationService.pdb
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\obj\Debug\NotificationService.csproj.AssemblyReference.cache
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\obj\Debug\NotificationService.csproj.SuggestedBindingRedirects.cache
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\obj\Debug\NotificationService.csproj.CoreCompileInputs.cache
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\obj\Debug\NotificationService.exe
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\obj\Debug\NotificationService.pdb
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\bin\Debug\Newtonsoft.Json.dll
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\bin\Debug\Newtonsoft.Json.xml
+D:\KOPOAcademy\Naver Cloud Platform\NotificationService\obj\Debug\NotificationService.csproj.CopyComplete
