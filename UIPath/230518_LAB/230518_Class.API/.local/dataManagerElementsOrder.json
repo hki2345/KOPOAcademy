@@ -1,0 +1,83 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_BizNo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "responseObject&Sequence_1",
+        "responseData&Sequence_1",
+        "bizNumber&Sequence_1",
+        "serviceKey&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_BizNumberWork.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "iDataIdx&Sequence_1",
+        "serviceKey&Sequence_1",
+        "bizNumber&Sequence_1",
+        "responseData&Sequence_1",
+        "responseObject&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_ChatGPT.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "joAnswer&Flowchart_1",
+        "joInputChatGPT&Sequence_1",
+        "sAnswer&Sequence_1",
+        "sQuestion&Sequence_1",
+        "OPENAI_API_KEY&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_PDF.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sResultB&Sequence_1",
+        "sResultA&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_FTP.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_Email.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mailLists&Sequence_5",
+        "mailLists&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

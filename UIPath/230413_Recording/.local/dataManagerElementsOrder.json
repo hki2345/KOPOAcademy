@@ -1,0 +1,91 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "NotePad.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mFileName&Sequence_4",
+        "mPageCount&Sequence_3",
+        "mLoopCount&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Acme_UiPath_Login.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Password&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Acme_OpenAndLogin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sUrl&Sequence_1",
+        "sUserID&Sequence_1",
+        "Password&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Naver_GetExchangeRate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_4",
+        "TD&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Openfiscal_GetTotalIncome.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Acme_OpenAndLoginWriteData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_8",
+        "Td2&Sequence_1",
+        "Td1&Sequence_1",
+        "Td&Sequence_1",
+        "sUserID&Sequence_1",
+        "sUrl&Sequence_1",
+        "Password&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Kepco_WriteLineText.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DivDesc&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

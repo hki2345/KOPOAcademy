@@ -1,0 +1,54 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_ExcelAddress.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtNamePhone&Sequence_72",
+        "sName&Sequence_72",
+        "sPhoneNumber&Sequence_72",
+        "nLoop&Sequence_73",
+        "sPassword&Sequence_63",
+        "bButtonExist&Flowchart_5",
+        "bFirst&Sequence_1",
+        "dtAddress&Sequence_1",
+        "dtAddress_result&Sequence_1",
+        "sGetPostNumber&Sequence_13",
+        "sGetPostCheck&Sequence_13",
+        "sMartNumber&Sequence_13",
+        "sRoadAddress&Sequence_13",
+        "sNewPostNumber&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "NameGenerator_RepeatGenerator.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "sPhoneNumberOut",
+        "sNameOut"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

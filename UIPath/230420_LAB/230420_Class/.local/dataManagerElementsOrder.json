@@ -1,0 +1,82 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sample_ScreenScrapping.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sInNameInfo&Sequence_3",
+        "arrNameInfo&Sequence_3",
+        "nameInfo&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "(Work-Invoke Code)Naver_ExchangeRateGap.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "nGap&Sequence_1",
+        "Sell&Sequence_1",
+        "Buy&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Acme_Selector.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_OpenAPIWeb.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_OpenAPINotepadSelector.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "(Work-Anchor)Naver_Webtoon.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "WebtoonTitle&Sequence_1",
+        "mLoopCount&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_String.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "temp&Sequence_1",
+        "sFileName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

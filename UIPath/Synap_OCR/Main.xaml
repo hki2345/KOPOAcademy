@@ -1,0 +1,145 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" sap2010:ExpressionActivityEditor.ExpressionActivityEditor="C#" sap:VirtualizedContainerService.HintSize="1234,827" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:p="http://schemas.uipath.com/workflow/activities/intelligentocr/extraction" xmlns:p1="http://schemas.uipath.com/workflow/activities/document-processing-contracts/extraction" xmlns:p2="http://schemas.uipath.com/workflow/activities/document-processing-contracts/results" xmlns:p3="http://schemas.uipath.com/workflow/activities/document-processing-contracts/dom" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Text</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.DocumentProcessing.Contracts.DataExtraction</x:String>
+      <x:String>UiPath.DocumentProcessing.Contracts.Results</x:String>
+      <x:String>UiPath.DocumentProcessing.Contracts.Dom</x:String>
+      <x:String>UiPath.IntelligentOCR.Activities.DataExtraction</x:String>
+      <x:String>UiPath.DocumentProcessing.Contracts</x:String>
+      <x:String>UiPath.DocumentProcessing.Contracts.Taxonomy</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>UiPath.IntelligentOCR.Activities.DocumentClassification</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.IntelligentOCR.Activities.Training</x:String>
+      <x:String>UiPath.DocumentProcessing.Contracts.Training</x:String>
+      <x:String>UiPath.Core.Activities.Orchestrator</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.CSharp</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.DocumentProcessing.Contracts</AssemblyReference>
+      <AssemblyReference>UiPath.IntelligentOCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Runtime.InteropServices.RuntimeInformation</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="450,338" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <p:FormExtractor SerializedSignatureFields="{x:Null}" ApiKey="SNOCR-12a4436527f048b89f1cc118ad6aae7a" DisplayName="1 Form Extractor" Endpoint="https://ailab.synap.co.kr" sap:VirtualizedContainerService.HintSize="388,162" sap2010:WorkflowViewState.IdRef="FormExtractor_3" MinOverlapPercentage="65" PersistenceId="UI5564a4cc4f124ddab38879125cf40611" SerializedSettings="{}{}" SerializedTemplates="[]" Timeout="100000">
+      <p:FormExtractor.DocumentBounds>
+        <InArgument x:TypeArguments="p2:ResultsDocumentBounds">
+          <DelegateArgumentValue x:TypeArguments="p2:ResultsDocumentBounds">
+            <DelegateInArgument x:TypeArguments="p2:ResultsDocumentBounds" Name="DocumentBounds" />
+          </DelegateArgumentValue>
+        </InArgument>
+      </p:FormExtractor.DocumentBounds>
+      <p:FormExtractor.DocumentObjectModel>
+        <InArgument x:TypeArguments="p3:Document">
+          <DelegateArgumentValue x:TypeArguments="p3:Document">
+            <DelegateInArgument x:TypeArguments="p3:Document" Name="DocumentObjectModel" />
+          </DelegateArgumentValue>
+        </InArgument>
+      </p:FormExtractor.DocumentObjectModel>
+      <p:FormExtractor.DocumentPath>
+        <InArgument x:TypeArguments="x:String">
+          <DelegateArgumentValue x:TypeArguments="x:String">
+            <DelegateInArgument x:TypeArguments="x:String" Name="DocumentPath" />
+          </DelegateArgumentValue>
+        </InArgument>
+      </p:FormExtractor.DocumentPath>
+      <p:FormExtractor.DocumentText>
+        <InArgument x:TypeArguments="x:String">
+          <DelegateArgumentValue x:TypeArguments="x:String">
+            <DelegateInArgument x:TypeArguments="x:String" Name="DocumentText" />
+          </DelegateArgumentValue>
+        </InArgument>
+      </p:FormExtractor.DocumentText>
+      <p:FormExtractor.ExtractorDocumentType>
+        <InArgument x:TypeArguments="p1:ExtractorDocumentType">
+          <DelegateArgumentValue x:TypeArguments="p1:ExtractorDocumentType">
+            <DelegateInArgument x:TypeArguments="p1:ExtractorDocumentType" Name="ExtractorDocumentType" />
+          </DelegateArgumentValue>
+        </InArgument>
+      </p:FormExtractor.ExtractorDocumentType>
+      <p:FormExtractor.ExtractorResult>
+        <OutArgument x:TypeArguments="p1:ExtractorResult">
+          <DelegateArgumentReference x:TypeArguments="p1:ExtractorResult">
+            <DelegateOutArgument x:TypeArguments="p1:ExtractorResult" Name="ExtractorResult" />
+          </DelegateArgumentReference>
+        </OutArgument>
+      </p:FormExtractor.ExtractorResult>
+      <p:FormExtractor.PredictionId>
+        <InArgument x:TypeArguments="x:String">
+          <DelegateArgumentValue x:TypeArguments="x:String">
+            <DelegateInArgument x:TypeArguments="x:String" Name="PredictionId" />
+          </DelegateArgumentValue>
+        </InArgument>
+      </p:FormExtractor.PredictionId>
+    </p:FormExtractor>
+    <ui:OrchestratorHttpRequest JSONPayload="{x:Null}" ResponseHeaders="{x:Null}" StatusCode="{x:Null}" TimeoutMS="{x:Null}" DisplayName="2 HTTP Request" sap:VirtualizedContainerService.HintSize="388,25" sap2010:WorkflowViewState.IdRef="OrchestratorHttpRequest_1" Method="GET" RelativeEndpoint="https://ailab.synap.co.kr" />
+  </Sequence>
+</Activity>

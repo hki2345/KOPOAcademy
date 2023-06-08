@@ -1,0 +1,62 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_BizNumberWork.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "arrResult&Sequence_1",
+        "iDataIdx&Sequence_1",
+        "serviceKey&Sequence_1",
+        "bizNumber&Sequence_1",
+        "responseData&Sequence_1",
+        "responseObject&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "NaverCloud_SMSSend.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "jarrMessage&Sequence_3",
+        "responseData&Sequence_1",
+        "JoSMSData&Sequence_1",
+        "sSignature&Sequence_1",
+        "sTimestamp&Sequence_1",
+        "sUrl&Sequence_1",
+        "SERVICE_ID&Sequence_1",
+        "SECRET_KEY&Sequence_1",
+        "ACCESS_KEY&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "NaverCloud_OCR.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sResponse&Sequence_1",
+        "jsResponse&Sequence_1",
+        "sRequest&Sequence_1",
+        "sImage&Sequence_1",
+        "bImage&Sequence_1",
+        "URL&Sequence_1",
+        "TEMPLATE_ID&Sequence_1",
+        "SECRET_KEY&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

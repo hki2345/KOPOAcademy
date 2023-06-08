@@ -1,0 +1,342 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="NaverCloud_SMSSend" sap2010:ExpressionActivityEditor.ExpressionActivityEditor="C#" sap:VirtualizedContainerService.HintSize="1032,1927" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:njl="clr-namespace:Newtonsoft.Json.Linq;assembly=Newtonsoft.Json" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Text</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>Newtonsoft.Json.Linq</x:String>
+      <x:String>Newtonsoft.Json</x:String>
+      <x:String>System.Dynamic</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Collections.Specialized</x:String>
+      <x:String>System.Security.Cryptography</x:String>
+      <x:String>System.Security.Authentication</x:String>
+      <x:String>UiPath.Web</x:String>
+      <x:String>UiPath.Platform.ResourceHandling</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>UiPath.Web.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.CSharp</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>NPOI</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>Newtonsoft.Json</AssemblyReference>
+      <AssemblyReference>System.Security.Cryptography.Algorithms</AssemblyReference>
+      <AssemblyReference>UiPath.Web</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Web.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="NaverCloud_SMSSend" sap:VirtualizedContainerService.HintSize="558,1862" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="ACCESS_KEY" />
+      <Variable x:TypeArguments="x:String" Name="SECRET_KEY" />
+      <Variable x:TypeArguments="x:String" Name="SERVICE_ID" />
+      <Variable x:TypeArguments="x:String" Name="sUrl" />
+      <Variable x:TypeArguments="x:String" Name="sTimestamp" />
+      <Variable x:TypeArguments="x:String" Name="sSignature" />
+      <Variable x:TypeArguments="njl:JObject" Name="JoSMSData">
+        <Variable.Default>
+          <mca:CSharpValue x:TypeArguments="njl:JObject" sap2010:WorkflowViewState.IdRef="CSharpValue`1_26">new JObject()</mca:CSharpValue>
+        </Variable.Default>
+      </Variable>
+      <Variable x:TypeArguments="x:String" Name="responseData" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence sap2010:Annotation.AnnotationText="// Service URL&#xA;// Timestamp&#xA;// Accec Key&#xA;// Secret Key&#xA;// Signature" DisplayName="초기설정" sap:VirtualizedContainerService.HintSize="496,810" sap2010:WorkflowViewState.IdRef="Sequence_2">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <ui:MultipleAssign DisplayName="ID_KEY 값 지정" sap:VirtualizedContainerService.HintSize="434,163" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+        <ui:MultipleAssign.AssignOperations>
+          <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_1">
+              <ui:AssignOperation.To>
+                <OutArgument x:TypeArguments="x:String">
+                  <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_4">ACCESS_KEY</mca:CSharpReference>
+                </OutArgument>
+              </ui:AssignOperation.To>
+              <ui:AssignOperation.Value>
+                <InArgument x:TypeArguments="x:String">6XvWEGyqO8UXKduLqxxL</InArgument>
+              </ui:AssignOperation.Value>
+            </ui:AssignOperation>
+            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
+              <ui:AssignOperation.To>
+                <OutArgument x:TypeArguments="x:String">
+                  <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_5">SECRET_KEY</mca:CSharpReference>
+                </OutArgument>
+              </ui:AssignOperation.To>
+              <ui:AssignOperation.Value>
+                <InArgument x:TypeArguments="x:String">ffEypANFlFtweCtQTxhUAWwQsvtWXxeWvbgCyvdt</InArgument>
+              </ui:AssignOperation.Value>
+            </ui:AssignOperation>
+            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
+              <ui:AssignOperation.To>
+                <OutArgument x:TypeArguments="x:String">
+                  <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_6">SERVICE_ID</mca:CSharpReference>
+                </OutArgument>
+              </ui:AssignOperation.To>
+              <ui:AssignOperation.Value>
+                <InArgument x:TypeArguments="x:String">ncp:sms:kr:307817390161:smssend-sample</InArgument>
+              </ui:AssignOperation.Value>
+            </ui:AssignOperation>
+          </scg:List>
+        </ui:MultipleAssign.AssignOperations>
+      </ui:MultipleAssign>
+      <Assign DisplayName="URL 생성" sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_1">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">
+            <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_7">sUrl</mca:CSharpReference>
+          </OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_3">"https://sens.apigw.ntruss.com/sms/v2/services/" + SERVICE_ID + "/messages"</mca:CSharpValue>
+          </InArgument>
+        </Assign.Value>
+      </Assign>
+      <Assign DisplayName="Timestamp 생성" sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_2">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">
+            <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_8">sTimestamp</mca:CSharpReference>
+          </OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_4">DateTimeOffset.UtcNow.ToUnixTimeMilliseconds().ToString()</mca:CSharpValue>
+          </InArgument>
+        </Assign.Value>
+      </Assign>
+      <ui:InvokeCode ContinueOnError="{x:Null}" Code="string message = $&quot;POST /sms/v2/services/{S_SERVICE_ID}/messages\n{S_sTimestamp}\n{S_ACCESS_KEY}&quot;;&#xD;&#xA;&#xD;&#xA;HMACSHA256 hmac = new HMACSHA256(Encoding.UTF8.GetBytes(S_SECRET_KEY));&#xD;&#xA;hmac.Initialize();&#xD;&#xA;&#xD;&#xA;byte[] rawHmac = hmac.ComputeHash(Encoding.UTF8.GetBytes(message));&#xD;&#xA;&#xD;&#xA;S_sSignature = Convert.ToBase64String(rawHmac);" DisplayName="Signature 생성" sap:VirtualizedContainerService.HintSize="434,165" sap2010:WorkflowViewState.IdRef="InvokeCode_1" Language="CSharp">
+        <ui:InvokeCode.Arguments>
+          <InArgument x:TypeArguments="x:String" x:Key="S_ACCESS_KEY">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_9">ACCESS_KEY</mca:CSharpValue>
+          </InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="S_SERVICE_ID">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_8">SERVICE_ID</mca:CSharpValue>
+          </InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="S_sTimestamp">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_7">sTimestamp</mca:CSharpValue>
+          </InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="S_SECRET_KEY">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_6">SECRET_KEY</mca:CSharpValue>
+          </InArgument>
+          <OutArgument x:TypeArguments="x:String" x:Key="S_sSignature">
+            <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_9">sSignature</mca:CSharpReference>
+          </OutArgument>
+        </ui:InvokeCode.Arguments>
+      </ui:InvokeCode>
+    </Sequence>
+    <Sequence sap2010:Annotation.AnnotationText="// 보낼 문자 데이터 구성" DisplayName="발송 문자 구성" sap:VirtualizedContainerService.HintSize="496,467" sap2010:WorkflowViewState.IdRef="Sequence_3">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="njl:JArray" Name="jarrMessage" />
+      </Sequence.Variables>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <ui:DeserializeJsonArray DisplayName="Deserialize JSON Array" sap:VirtualizedContainerService.HintSize="423,60" sap2010:WorkflowViewState.IdRef="DeserializeJsonArray_1">
+        <ui:DeserializeJsonArray.JsonArray>
+          <OutArgument x:TypeArguments="njl:JArray">
+            <mca:CSharpReference x:TypeArguments="njl:JArray" sap2010:WorkflowViewState.IdRef="CSharpReference`1_19">jarrMessage</mca:CSharpReference>
+          </OutArgument>
+        </ui:DeserializeJsonArray.JsonArray>
+        <ui:DeserializeJsonArray.JsonString>
+          <InArgument x:TypeArguments="x:String">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_24">"[{\"to\":\"01040246674\"}]"</mca:CSharpValue>
+          </InArgument>
+        </ui:DeserializeJsonArray.JsonString>
+      </ui:DeserializeJsonArray>
+      <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="423,225" sap2010:WorkflowViewState.IdRef="MultipleAssign_2">
+        <ui:MultipleAssign.AssignOperations>
+          <scg:List x:TypeArguments="ui:AssignOperation" Capacity="8">
+            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_4">
+              <ui:AssignOperation.To>
+                <OutArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpReference x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpReference`1_11">JoSMSData["type"]</mca:CSharpReference>
+                </OutArgument>
+              </ui:AssignOperation.To>
+              <ui:AssignOperation.Value>
+                <InArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpValue x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpValue`1_10">"SMS"</mca:CSharpValue>
+                </InArgument>
+              </ui:AssignOperation.Value>
+            </ui:AssignOperation>
+            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_6">
+              <ui:AssignOperation.To>
+                <OutArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpReference x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpReference`1_13">JoSMSData["from"]</mca:CSharpReference>
+                </OutArgument>
+              </ui:AssignOperation.To>
+              <ui:AssignOperation.Value>
+                <InArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpValue x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpValue`1_11">"01040246674"</mca:CSharpValue>
+                </InArgument>
+              </ui:AssignOperation.Value>
+            </ui:AssignOperation>
+            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_5">
+              <ui:AssignOperation.To>
+                <OutArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpReference x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpReference`1_12">JoSMSData["subject"]</mca:CSharpReference>
+                </OutArgument>
+              </ui:AssignOperation.To>
+              <ui:AssignOperation.Value>
+                <InArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpValue x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpValue`1_12">"UIPath SMS"</mca:CSharpValue>
+                </InArgument>
+              </ui:AssignOperation.Value>
+            </ui:AssignOperation>
+            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_7">
+              <ui:AssignOperation.To>
+                <OutArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpReference x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpReference`1_14">JoSMSData["content"]</mca:CSharpReference>
+                </OutArgument>
+              </ui:AssignOperation.To>
+              <ui:AssignOperation.Value>
+                <InArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpValue x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpValue`1_13">"ㅇㅇ ㅇㅇ"</mca:CSharpValue>
+                </InArgument>
+              </ui:AssignOperation.Value>
+            </ui:AssignOperation>
+            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_8">
+              <ui:AssignOperation.To>
+                <OutArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpReference x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpReference`1_15">JoSMSData["messages"]</mca:CSharpReference>
+                </OutArgument>
+              </ui:AssignOperation.To>
+              <ui:AssignOperation.Value>
+                <InArgument x:TypeArguments="njl:JToken">
+                  <mca:CSharpValue x:TypeArguments="njl:JToken" sap2010:WorkflowViewState.IdRef="CSharpValue`1_25">jarrMessage</mca:CSharpValue>
+                </InArgument>
+              </ui:AssignOperation.Value>
+            </ui:AssignOperation>
+          </scg:List>
+        </ui:MultipleAssign.AssignOperations>
+      </ui:MultipleAssign>
+    </Sequence>
+    <Sequence DisplayName="SMS 보내기" sap:VirtualizedContainerService.HintSize="496,181" sap2010:WorkflowViewState.IdRef="Sequence_4">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <ui:HttpClient ClientCertificate="{x:Null}" ClientCertificatePassword="{x:Null}" ConsumerKey="{x:Null}" ConsumerSecret="{x:Null}" ContinueOnError="{x:Null}" FileAttachments="{x:Null}" OAuth1Token="{x:Null}" OAuth1TokenSecret="{x:Null}" OAuth2Token="{x:Null}" Password="{x:Null}" ResourcePath="{x:Null}" ResponseAttachment="{x:Null}" ResponseHeaders="{x:Null}" SecureClientCertificatePassword="{x:Null}" SecurePassword="{x:Null}" StatusCode="{x:Null}" Username="{x:Null}" AcceptFormat="JSON" AuthenticationType="None" BodyFormat="application/json" DisplayName="HTTP Request" EnableSSLVerification="True" sap:VirtualizedContainerService.HintSize="388,70" sap2010:WorkflowViewState.IdRef="HttpClient_1" Method="POST" TimeoutMS="6000">
+        <ui:HttpClient.Attachments>
+          <scg:Dictionary x:TypeArguments="x:String, InArgument(x:String)" />
+        </ui:HttpClient.Attachments>
+        <ui:HttpClient.Body>
+          <InArgument x:TypeArguments="x:String">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_19">JoSMSData.ToString()</mca:CSharpValue>
+          </InArgument>
+        </ui:HttpClient.Body>
+        <ui:HttpClient.Cookies>
+          <scg:Dictionary x:TypeArguments="x:String, InArgument(x:String)" />
+        </ui:HttpClient.Cookies>
+        <ui:HttpClient.EndPoint>
+          <InArgument x:TypeArguments="x:String">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_15">sUrl</mca:CSharpValue>
+          </InArgument>
+        </ui:HttpClient.EndPoint>
+        <ui:HttpClient.Headers>
+          <InArgument x:TypeArguments="x:String" x:Key="x-ncp-apigw-timestamp">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_16">sTimestamp</mca:CSharpValue>
+          </InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="x-ncp-iam-access-key">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_17">ACCESS_KEY</mca:CSharpValue>
+          </InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="x-ncp-apigw-signature-v2">
+            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_18">sSignature</mca:CSharpValue>
+          </InArgument>
+        </ui:HttpClient.Headers>
+        <ui:HttpClient.Parameters>
+          <scg:Dictionary x:TypeArguments="x:String, InArgument(x:String)" />
+        </ui:HttpClient.Parameters>
+        <ui:HttpClient.Result>
+          <OutArgument x:TypeArguments="x:String">
+            <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_16">responseData</mca:CSharpReference>
+          </OutArgument>
+        </ui:HttpClient.Result>
+        <ui:HttpClient.UrlSegments>
+          <scg:Dictionary x:TypeArguments="x:String, InArgument(x:String)" />
+        </ui:HttpClient.UrlSegments>
+      </ui:HttpClient>
+    </Sequence>
+    <Sequence DisplayName="발송결과 확인" sap:VirtualizedContainerService.HintSize="496,173" sap2010:WorkflowViewState.IdRef="Sequence_5">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="388,62" sap2010:WorkflowViewState.IdRef="WriteLine_1">
+        <InArgument x:TypeArguments="x:String">
+          <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_20">responseData</mca:CSharpValue>
+        </InArgument>
+      </WriteLine>
+    </Sequence>
+  </Sequence>
+</Activity>

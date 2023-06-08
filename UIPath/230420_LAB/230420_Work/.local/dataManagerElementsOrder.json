@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "(Work-Invoke Code)Naver_ExchangeRateGap.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "nGap&Sequence_1",
+        "Sell&Sequence_1",
+        "Buy&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "(Work-Anchor)Naver_Webtoon.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mLineCount&Sequence_1",
+        "WebtoonTitle&Sequence_1",
+        "mLoopCount&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

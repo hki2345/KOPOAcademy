@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Address_ExcelDataTable.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtAddress&Sequence_1",
+        "dtAddress_result&Sequence_1",
+        "sGetPostNumber&Sequence_14",
+        "sGetPostCheck&Sequence_14",
+        "sMartNumber&Sequence_14",
+        "sRoadAddress&Sequence_14",
+        "sNewPostNumber&Sequence_14"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Local_Olympic.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtAcmeChartFiltered&Sequence_1",
+        "dtAcmeChart&Sequence_1",
+        "sPassword&Sequence_27",
+        "sAddress&Sequence_23",
+        "dtAddress&Flowchart_1",
+        "sName&Sequence_12",
+        "sIncome&Sequence_12",
+        "sAge&Sequence_12",
+        "dtEmployee_3Item&Sequence_1",
+        "dtEmployee&Sequence_1",
+        "dtOlympic_Add&Sequence_1",
+        "dtOlympic_Filtered&Sequence_1",
+        "dtOlympic&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Address_ExcelDataTable.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sNewPostNumber&Sequence_14",
+        "sGetPostCheck&Sequence_14",
+        "sGetPostNumber&Sequence_14",
+        "sRoadAddress&Sequence_14",
+        "sMartNumber&Sequence_14",
+        "dtAddress_result&Sequence_1",
+        "dtAddress&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
