@@ -106,7 +106,7 @@ for epoch in range(epochs+1):
     prediction = model(x_train)
 
     cost = f.mse_loss(prediction, y_train) ## 예측 정답
-    optimizer.zero_grad() ## 초기화
+    optimizer.zero_grad() ## 초기화 - optimizer에 계산된 기울기가 초기화 되지 않아서 따로 해야함
     cost.backward() ## 기울기 구함
     optimizer.step() ## 진행
 
