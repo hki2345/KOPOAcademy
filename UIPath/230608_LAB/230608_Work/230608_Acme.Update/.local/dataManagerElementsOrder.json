@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Acme_HashCalculate.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "iHashCnt&Sequence_20",
+        "listClientTable&Sequence_14",
+        "listHashTable&Flowchart_1",
+        "sHashText&Sequence_14",
+        "sClientText&Sequence_14",
+        "listIDTable&Flowchart_1",
+        "dtGetItems&Sequence_4",
+        "bIsNextPageBtn&Sequence_4",
+        "nPageNum&Sequence_4",
+        "sPassword&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
