@@ -39,6 +39,20 @@
     },
     {
       "Package": {
+        "Id": "UiPath.FTP.Activities",
+        "Version": "2.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\KOPO\\.nuget\\packages\\fluentftp\\34.0.0\\lib/net45/FluentFTP.dll",
+        "C:\\Users\\KOPO\\.nuget\\packages\\ssh.net\\2020.0.1\\lib/net40/Renci.SshNet.dll",
+        "C:\\Users\\KOPO\\.nuget\\packages\\uipath.ftp.activities\\2.3.0\\lib/net461/UiPath.FTP.Activities.Design.dll",
+        "C:\\Users\\KOPO\\.nuget\\packages\\uipath.ftp.activities\\2.3.0\\lib/net461/UiPath.FTP.Activities.dll",
+        "C:\\Users\\KOPO\\.nuget\\packages\\uipath.ftp.activities\\2.3.0\\lib/net461/UiPath.FTP.dll"
+      ],
+      "Path": "C:\\Users\\KOPO\\.nuget\\packages\\uipath.ftp.activities\\2.3.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Mail.Activities",
         "Version": "1.18.2"
       },
@@ -280,20 +294,6 @@
         "C:\\Users\\KOPO\\.nuget\\packages\\uipath.webapi.runtime\\1.16.2\\lib/net461/UiPath.Web.dll"
       ],
       "Path": "C:\\Users\\KOPO\\.nuget\\packages\\uipath.webapi.activities\\1.16.2"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.FTP.Activities",
-        "Version": "2.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\KOPO\\.nuget\\packages\\fluentftp\\34.0.0\\lib/net45/FluentFTP.dll",
-        "C:\\Users\\KOPO\\.nuget\\packages\\ssh.net\\2020.0.1\\lib/net40/Renci.SshNet.dll",
-        "C:\\Users\\KOPO\\.nuget\\packages\\uipath.ftp.activities\\2.3.0\\lib/net461/UiPath.FTP.Activities.Design.dll",
-        "C:\\Users\\KOPO\\.nuget\\packages\\uipath.ftp.activities\\2.3.0\\lib/net461/UiPath.FTP.Activities.dll",
-        "C:\\Users\\KOPO\\.nuget\\packages\\uipath.ftp.activities\\2.3.0\\lib/net461/UiPath.FTP.dll"
-      ],
-      "Path": "C:\\Users\\KOPO\\.nuget\\packages\\uipath.ftp.activities\\2.3.0"
     }
   ],
   "Conflicts": [],
