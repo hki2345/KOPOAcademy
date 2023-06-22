@@ -9777,9 +9777,9 @@
     "restore": {
       "projectUniqueName": "MyProject",
       "projectName": "MyProject",
-      "projectPath": "C:\\LAB\\UIPath\\230608_LAB\\230608_Git.Test.Class\\MyProject\\.local",
+      "projectPath": "D:\\KOPOAcademy\\UIPath\\230608_LAB\\230608_Git.Test.Class\\MyProject\\.local",
       "packagesPath": "C:\\Users\\KOPO\\.nuget\\packages\\",
-      "outputPath": "C:\\LAB\\UIPath\\230608_LAB\\230608_Git.Test.Class\\MyProject\\.local"
+      "outputPath": "D:\\KOPOAcademy\\UIPath\\230608_LAB\\230608_Git.Test.Class\\MyProject\\.local"
     },
     "frameworks": {
       "net461": {

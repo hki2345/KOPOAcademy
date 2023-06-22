@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MLvbBthm4Ml0cyM7Y/2/tpsZLhqZpyOZzRTWYU+NxwrZwjA/JFr/T1Mz2hxZWyfR1nW40/A7bNb+KW9ty/kEIg==",
+  "dgSpecHash": "O0mbUArIWywkxMb0Vxtgiy6ixjz7LqFlH36g37vASB88bh0l7y8VgQsE+KANQJ0TKblw1fS/YErjYhOxuUJz0g==",
   "success": true,
-  "projectFilePath": "C:\\LAB\\UIPath\\230608_LAB\\230608_Git.Test.Class\\MyProject\\.local\\",
+  "projectFilePath": "D:\\KOPOAcademy\\UIPath\\230608_LAB\\230608_Git.Test.Class\\MyProject\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\KOPO\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",

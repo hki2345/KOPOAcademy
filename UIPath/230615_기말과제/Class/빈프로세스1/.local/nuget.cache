@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "K5ftwyfqWfNMvpCrA7ZzU2huDqoXFNmVjd4SPay4RRgy+hYyLzMjOuWN72IJiuWsQNYZ/UNXO5hjkcxDB5m4Cg==",
+  "dgSpecHash": "fsK2nCnTplsJV/FyqRGMYwIcVDGynqNj26xvNDMZNRxnolJP4AY9daZwF4v+FlgyDgKKSwTuASzOSr+KUfbA0g==",
   "success": true,
-  "projectFilePath": "D:\\KOPOAcademy\\UIPath\\230615_LAB\\Class\\빈프로세스1\\.local\\",
+  "projectFilePath": "D:\\KOPOAcademy\\UIPath\\230615_기말과제\\Class\\빈프로세스1\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\KOPO\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\KOPO\\.nuget\\packages\\avalonedit\\6.0.1\\avalonedit.6.0.1.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
@@ -61,6 +62,7 @@
     "C:\\Users\\KOPO\\.nuget\\packages\\npoi\\2.5.5\\npoi.2.5.5.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\KOPO\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
@@ -100,7 +102,9 @@
     "C:\\Users\\KOPO\\.nuget\\packages\\uipath.testing.activities\\23.4.1\\uipath.testing.activities.23.4.1.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\uipath.uiautomation.activities\\23.4.6\\uipath.uiautomation.activities.23.4.6.nupkg.sha512",
     "C:\\Users\\KOPO\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.4.6\\uipath.uiautomation.activities.runtime.23.4.6.nupkg.sha512",
-    "C:\\Users\\KOPO\\.nuget\\packages\\uipath.vision\\3.10.1\\uipath.vision.3.10.1.nupkg.sha512"
+    "C:\\Users\\KOPO\\.nuget\\packages\\uipath.vision\\3.10.1\\uipath.vision.3.10.1.nupkg.sha512",
+    "C:\\Users\\KOPO\\.nuget\\packages\\uipath.webapi.activities\\1.16.2\\uipath.webapi.activities.1.16.2.nupkg.sha512",
+    "C:\\Users\\KOPO\\.nuget\\packages\\uipath.webapi.runtime\\1.16.2\\uipath.webapi.runtime.1.16.2.nupkg.sha512"
   ],
   "logs": []
 }
