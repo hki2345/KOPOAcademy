@@ -54,9 +54,10 @@ while True:
     # a = input()
     if p1.checkBadHealth(): break
 
-    a = rd.randint(0, 5)
-    if a == 0: 
-        print("다 때려 칩니다. 현명합니다.") 
+    a = rd.randint(1, 5)
+    b = rd.randint(0, 40)
+    if b == 0: 
+        print(f"다 때려 칩니다. 현명합니다. [생존 나이: {p1.age}세]") 
         break
 
     if a == 1: p1.run()
