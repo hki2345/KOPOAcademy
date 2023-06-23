@@ -44,7 +44,13 @@ p1 = Person()
 
 print(f"초기 측정\n이름: {p1.name}\n나이: {p1.age}세\n체중: {p1.weight}\n건강상태: {p1.health}\n\n")
 
+year = 0
 while True:
+    year += 1
+    if year > 5:
+        year = 0
+        p1.age += 1
+
     # a = input()
     if p1.checkBadHealth(): break
 
