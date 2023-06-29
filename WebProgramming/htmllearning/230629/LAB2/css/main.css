@@ -1,0 +1,29 @@
+div{
+  width: 500px;
+  height: 500px;
+  background-color: orange;
+  background-image: url("https://i.namu.wiki/i/7i6_1EhitIotghObX2GtIQQ_qXQ-PDitbq8srLGu5xGVJIXFcoVAxPCLHq24ZAAxLSdqk-uT4lYMpW-S5XGS9A.webp");
+  background-size: 15%;
+  background-repeat: no-repeat;
+  background-position: 35%;
+  background-attachment: fixed;
+}
+
+.parent .child{
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  border: 4px dashed red;
+  box-sizing: border-box;
+}
+
+.parent .child:nth-child(2){
+  position: relative;
+  left: 250px;
+  top: 50px;
+  background-image: url("https://i.namu.wiki/i/7i6_1EhitIotghObX2GtIQQ_qXQ-PDitbq8srLGu5xGVJIXFcoVAxPCLHq24ZAAxLSdqk-uT4lYMpW-S5XGS9A.webp");
+  background-size: 5%;
+  background-repeat: repeat;
+  background-position-x: 40%;
+  background-position-y: 60%;
+}
