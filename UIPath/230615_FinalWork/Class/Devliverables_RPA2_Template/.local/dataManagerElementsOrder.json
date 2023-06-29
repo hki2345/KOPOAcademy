@@ -1,0 +1,43 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sBizNumList&Sequence_7",
+        "responseObject&Sequence_73",
+        "responseData&Sequence_73",
+        "serviceKey&Sequence_73",
+        "jsResponse&Sequence_72",
+        "sResponse&Sequence_19",
+        "sImage&Sequence_72",
+        "bImage&Sequence_72",
+        "URL&Sequence_72",
+        "TEMPLATE_ID&Sequence_72",
+        "SECRET_KEY&Sequence_72",
+        "imTargetImg&Sequence_19",
+        "sOcrData&Sequence_19",
+        "sResponsedays&Sequence_19",
+        "sServiceKEY&Sequence_19",
+        "sYearReq&Sequence_19",
+        "sMonthReq&Sequence_19",
+        "lsHolyCandidateMonth&Sequence_19",
+        "lsHolyday&Sequence_19",
+        "sAttachmentFolderSubject&Sequence_7",
+        "sRPA2List&Flowchart_1",
+        "sMailLists&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

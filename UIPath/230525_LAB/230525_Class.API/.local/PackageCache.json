@@ -2807,7 +2807,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\KOPO\\.nuget\\packages\\system.runtime.caching\\5.0.0\\lib\\net45\\_._"
+        "C:\\Users\\KOPO\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes\\win\\lib\\net45\\_._"
       ],
       "Path": "C:\\Users\\KOPO\\.nuget\\packages\\system.runtime.caching\\5.0.0"
     },
@@ -2847,7 +2847,7 @@
         "Version": "4.5.1"
       },
       "Assemblies": [
-        "C:\\Users\\KOPO\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\lib\\net461\\System.Text.Encoding.CodePages.dll"
+        "C:\\Users\\KOPO\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\runtimes\\win\\lib\\net461\\System.Text.Encoding.CodePages.dll"
       ],
       "Path": "C:\\Users\\KOPO\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1"
     },

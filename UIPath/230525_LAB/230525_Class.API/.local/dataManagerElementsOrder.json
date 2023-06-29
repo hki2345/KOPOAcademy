@@ -3,7 +3,17 @@
     {
       "Path": null,
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "ACCESS_KEY&",
+        "SECRET_KEY&",
+        "SERVICE_ID&",
+        "sUrl&",
+        "sTimestamp&",
+        "sSignature&",
+        "JoSMSData&",
+        "responseData&",
+        "jarrMessage&"
+      ],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
