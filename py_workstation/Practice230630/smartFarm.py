@@ -5,17 +5,23 @@ import time
 temper = 0
 water = 0
 
+lock = td.Lock()
+
 def setTemper():
     global temper
     while True:
+        lock.acquire()
         temper = rd.randint(0, 100)
+        lock.release()
         print(f"온도가 재설정되었습니다: {temper}도\n")
         time.sleep(10)
 
 def setWater():
     global water
     while True:
+        lock.acquire()
         water = rd.randint(0, 100)
+        lock.release()
         print(f"습도가 재설정되었습니다: {water}도\n")
         time.sleep(10)
 
@@ -48,7 +54,9 @@ class Heater(Product):
         super().Acting()
         global temper
         if self.status: 
+            lock.acquire()
             temper += 1
+            lock.release()
 
 class AirConditioner(Product):
     def __init__(self) -> None:
@@ -58,7 +66,10 @@ class AirConditioner(Product):
     def Acting(self):
         super().Acting()
         global temper
-        if self.status: temper -= 1
+        if self.status: 
+            lock.acquire()
+            temper -= 1
+            lock.release()
             
 
 
@@ -70,7 +81,10 @@ class Humidifier(Product):
     def Acting(self):
         super().Acting()
         global water
-        if self.status: water += 1
+        if self.status: 
+            lock.acquire()
+            water += 1
+            lock.release()
 
 class Dehumidifier(Product):
     def __init__(self) -> None:
@@ -80,7 +94,10 @@ class Dehumidifier(Product):
     def Acting(self):
         super().Acting()
         global water
-        if self.status: water -= 1
+        if self.status: 
+            lock.acquire()
+            water -= 1
+            lock.release()
 
 
 
