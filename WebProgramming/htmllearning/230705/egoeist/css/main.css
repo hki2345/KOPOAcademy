@@ -1,0 +1,24 @@
+.main{
+  margin: 20px;
+  max-width: 500px;
+}
+
+p {
+  line-height: 2;
+}
+
+.main .emblem{
+  text-align: center;
+}
+
+.main .ribbon{
+  background-color: #00dd00;
+  max-width: 300px;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+}
+
+
+.main .banner{  
+}
