@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Main" sap2010:ExpressionActivityEditor.ExpressionActivityEditor="C#" sap:VirtualizedContainerService.HintSize="992,608" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:njl="clr-namespace:Newtonsoft.Json.Linq;assembly=Newtonsoft.Json" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:sc="clr-namespace:System.Collections;assembly=mscorlib" xmlns:sc1="clr-namespace:System.ComponentModel;assembly=System" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:si="clr-namespace:System.IO;assembly=mscorlib" xmlns:snm="clr-namespace:System.Net.Mail;assembly=System" xmlns:uasa="clr-namespace:UiPath.Activities.System.Arrays;assembly=UiPath.System.Activities" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" sap2010:ExpressionActivityEditor.ExpressionActivityEditor="C#" sap:VirtualizedContainerService.HintSize="1108,608" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:njl="clr-namespace:Newtonsoft.Json.Linq;assembly=Newtonsoft.Json" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:sc="clr-namespace:System.Collections;assembly=mscorlib" xmlns:sc1="clr-namespace:System.ComponentModel;assembly=System" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:si="clr-namespace:System.IO;assembly=mscorlib" xmlns:snm="clr-namespace:System.Net.Mail;assembly=System" xmlns:uasa="clr-namespace:UiPath.Activities.System.Arrays;assembly=UiPath.System.Activities" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -271,27 +271,27 @@
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <Sequence sap:VirtualizedContainerService.HintSize="548,317" sap2010:WorkflowViewState.IdRef="Sequence_31">
+                  <Sequence sap:VirtualizedContainerService.HintSize="548,318" sap2010:WorkflowViewState.IdRef="Sequence_31">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                         <x:Boolean x:Key="IsPinned">False</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <ui:ForEach x:TypeArguments="snm:MailMessage" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="486,206" sap2010:WorkflowViewState.IdRef="ForEach`1_2">
+                    <ui:ForEach x:TypeArguments="snm:MailMessage" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="486,207" sap2010:WorkflowViewState.IdRef="ForEach`1_2">
                       <ui:ForEach.Body>
                         <ActivityAction x:TypeArguments="snm:MailMessage">
                           <ActivityAction.Argument>
                             <DelegateInArgument x:TypeArguments="snm:MailMessage" Name="currentItem" />
                           </ActivityAction.Argument>
-                          <Sequence DisplayName="본문" sap:VirtualizedContainerService.HintSize="1025,7183" sap2010:WorkflowViewState.IdRef="Sequence_14">
+                          <Sequence DisplayName="본문" sap:VirtualizedContainerService.HintSize="610,1961" sap2010:WorkflowViewState.IdRef="Sequence_14">
                             <sap:WorkflowViewStateService.ViewState>
                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                 <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <Sequence sap2010:Annotation.AnnotationText="첨부파일의 글자를 추출한다" DisplayName="OCR로 데이터 가져오기" sap:VirtualizedContainerService.HintSize="963,112" sap2010:WorkflowViewState.IdRef="Sequence_19">
+                            <Sequence sap2010:Annotation.AnnotationText="첨부파일의 글자를 추출한다" DisplayName="OCR로 데이터 가져오기" sap:VirtualizedContainerService.HintSize="548,112" sap2010:WorkflowViewState.IdRef="Sequence_19">
                               <Sequence.Variables>
                                 <Variable x:TypeArguments="x:String" Name="sResponsedays" />
                                 <Variable x:TypeArguments="x:String" Name="sServiceKEY" />
@@ -341,13 +341,136 @@
                                       </ui:AssignOperation.To>
                                       <ui:AssignOperation.Value>
                                         <InArgument x:TypeArguments="x:String">
-                                          <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_306">currentItem.Subject.Replace(' ', '_').Replace(':', '-')</mca:CSharpValue>
+                                          <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_441">currentItem.Subject.Replace(' ', '_').Replace(':', '-').Replace("[RPA]_", "") + "-" +DateTime.Now.ToString("yyyyMMddhhmmss")</mca:CSharpValue>
                                         </InArgument>
                                       </ui:AssignOperation.Value>
                                     </ui:AssignOperation>
                                   </scg:List>
                                 </ui:MultipleAssign.AssignOperations>
                               </ui:MultipleAssign>
+                              <Sequence DisplayName="폴더 생성" sap:VirtualizedContainerService.HintSize="530,81" sap2010:WorkflowViewState.IdRef="Sequence_90">
+                                <Sequence.Variables>
+                                  <Variable x:TypeArguments="x:Boolean" Name="bIsFolder" />
+                                </Sequence.Variables>
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
+                                <ui:FolderExistsX DisplayName="Folder Exists" sap:VirtualizedContainerService.HintSize="486,52" sap2010:WorkflowViewState.IdRef="FolderExistsX_1">
+                                  <ui:FolderExistsX.Exists>
+                                    <OutArgument x:TypeArguments="x:Boolean">
+                                      <mca:CSharpReference x:TypeArguments="x:Boolean" sap2010:WorkflowViewState.IdRef="CSharpReference`1_140">bIsFolder</mca:CSharpReference>
+                                    </OutArgument>
+                                  </ui:FolderExistsX.Exists>
+                                  <ui:FolderExistsX.Path>
+                                    <InArgument x:TypeArguments="x:String">
+                                      <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_424">"input\\" + sAttachmentFolderSubject</mca:CSharpValue>
+                                    </InArgument>
+                                  </ui:FolderExistsX.Path>
+                                  <sap:WorkflowViewStateService.ViewState>
+                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                    </scg:Dictionary>
+                                  </sap:WorkflowViewStateService.ViewState>
+                                </ui:FolderExistsX>
+                                <If sap:VirtualizedContainerService.HintSize="486,379" sap2010:WorkflowViewState.IdRef="If_2">
+                                  <If.Condition>
+                                    <InArgument x:TypeArguments="x:Boolean">
+                                      <mca:CSharpValue x:TypeArguments="x:Boolean" sap2010:WorkflowViewState.IdRef="CSharpValue`1_425">!bIsFolder</mca:CSharpValue>
+                                    </InArgument>
+                                  </If.Condition>
+                                  <sap:WorkflowViewStateService.ViewState>
+                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                    </scg:Dictionary>
+                                  </sap:WorkflowViewStateService.ViewState>
+                                  <If.Then>
+                                    <Sequence sap:VirtualizedContainerService.HintSize="450,191" sap2010:WorkflowViewState.IdRef="Sequence_91">
+                                      <sap:WorkflowViewStateService.ViewState>
+                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                        </scg:Dictionary>
+                                      </sap:WorkflowViewStateService.ViewState>
+                                      <ui:CreateDirectory ContinueOnError="{x:Null}" Output="{x:Null}" DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="388,80" sap2010:WorkflowViewState.IdRef="CreateDirectory_1">
+                                        <ui:CreateDirectory.Path>
+                                          <InArgument x:TypeArguments="x:String">
+                                            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_426">"input\\" + sAttachmentFolderSubject</mca:CSharpValue>
+                                          </InArgument>
+                                        </ui:CreateDirectory.Path>
+                                      </ui:CreateDirectory>
+                                    </Sequence>
+                                  </If.Then>
+                                  <If.Else>
+                                    <Sequence sap2010:WorkflowViewState.IdRef="Sequence_92">
+                                      <sap:WorkflowViewStateService.ViewState>
+                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                        </scg:Dictionary>
+                                      </sap:WorkflowViewStateService.ViewState>
+                                    </Sequence>
+                                  </If.Else>
+                                </If>
+                                <ui:FolderExistsX DisplayName="Folder Exists" sap:VirtualizedContainerService.HintSize="486,52" sap2010:WorkflowViewState.IdRef="FolderExistsX_2">
+                                  <ui:FolderExistsX.Exists>
+                                    <OutArgument x:TypeArguments="x:Boolean">
+                                      <mca:CSharpReference x:TypeArguments="x:Boolean" sap2010:WorkflowViewState.IdRef="CSharpReference`1_141">bIsFolder</mca:CSharpReference>
+                                    </OutArgument>
+                                  </ui:FolderExistsX.Exists>
+                                  <ui:FolderExistsX.Path>
+                                    <InArgument x:TypeArguments="x:String">
+                                      <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_427">"output\\" + sAttachmentFolderSubject</mca:CSharpValue>
+                                    </InArgument>
+                                  </ui:FolderExistsX.Path>
+                                  <sap:WorkflowViewStateService.ViewState>
+                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                    </scg:Dictionary>
+                                  </sap:WorkflowViewStateService.ViewState>
+                                </ui:FolderExistsX>
+                                <If sap:VirtualizedContainerService.HintSize="486,379" sap2010:WorkflowViewState.IdRef="If_3">
+                                  <If.Condition>
+                                    <InArgument x:TypeArguments="x:Boolean">
+                                      <mca:CSharpValue x:TypeArguments="x:Boolean" sap2010:WorkflowViewState.IdRef="CSharpValue`1_428">!bIsFolder</mca:CSharpValue>
+                                    </InArgument>
+                                  </If.Condition>
+                                  <sap:WorkflowViewStateService.ViewState>
+                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                    </scg:Dictionary>
+                                  </sap:WorkflowViewStateService.ViewState>
+                                  <If.Then>
+                                    <Sequence sap:VirtualizedContainerService.HintSize="450,191" sap2010:WorkflowViewState.IdRef="Sequence_93">
+                                      <sap:WorkflowViewStateService.ViewState>
+                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                        </scg:Dictionary>
+                                      </sap:WorkflowViewStateService.ViewState>
+                                      <ui:CreateDirectory ContinueOnError="{x:Null}" Output="{x:Null}" DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="388,80" sap2010:WorkflowViewState.IdRef="CreateDirectory_2">
+                                        <ui:CreateDirectory.Path>
+                                          <InArgument x:TypeArguments="x:String">
+                                            <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_429">"output\\" + sAttachmentFolderSubject</mca:CSharpValue>
+                                          </InArgument>
+                                        </ui:CreateDirectory.Path>
+                                      </ui:CreateDirectory>
+                                    </Sequence>
+                                  </If.Then>
+                                  <If.Else>
+                                    <Sequence sap2010:WorkflowViewState.IdRef="Sequence_94">
+                                      <sap:WorkflowViewStateService.ViewState>
+                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                        </scg:Dictionary>
+                                      </sap:WorkflowViewStateService.ViewState>
+                                    </Sequence>
+                                  </If.Else>
+                                </If>
+                              </Sequence>
                               <ui:SaveMailAttachments Attachments="{x:Null}" DisplayName="Save Attachments" ExcludeInlineAttachments="False" sap:VirtualizedContainerService.HintSize="530,92" sap2010:WorkflowViewState.IdRef="SaveMailAttachments_1" OverwriteExisting="False">
                                 <ui:SaveMailAttachments.FolderPath>
                                   <InArgument x:TypeArguments="x:String">
@@ -360,7 +483,7 @@
                                   </InArgument>
                                 </ui:SaveMailAttachments.Message>
                               </ui:SaveMailAttachments>
-                              <ui:ForEachFileX DisplayName="For Each File In Folder" Filter="*.jpg" sap:VirtualizedContainerService.HintSize="530,1157" sap2010:WorkflowViewState.IdRef="ForEachFileX_1" IncludeSubDirectories="False" OrderBy="NameAscFirst" SkipFolderWithoutPermission="False">
+                              <ui:ForEachFileX DisplayName="For Each File In Folder" Filter="*.jpg" sap:VirtualizedContainerService.HintSize="530,1159" sap2010:WorkflowViewState.IdRef="ForEachFileX_1" IncludeSubDirectories="False" OrderBy="NameAscFirst" SkipFolderWithoutPermission="False">
                                 <ui:ForEachFileX.Body>
                                   <ActivityAction x:TypeArguments="si:FileInfo, x:Int32">
                                     <ActivityAction.Argument1>
@@ -369,7 +492,7 @@
                                     <ActivityAction.Argument2>
                                       <DelegateInArgument x:TypeArguments="x:Int32" Name="CurrentIndex" />
                                     </ActivityAction.Argument2>
-                                    <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="496,899" sap2010:WorkflowViewState.IdRef="Sequence_72">
+                                    <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="496,901" sap2010:WorkflowViewState.IdRef="Sequence_72">
                                       <Sequence.Variables>
                                         <Variable x:TypeArguments="x:String" Name="SECRET_KEY" />
                                         <Variable x:TypeArguments="x:String" Name="TEMPLATE_ID" />
@@ -419,7 +542,7 @@
                                           </scg:List>
                                         </ui:MultipleAssign.AssignOperations>
                                       </ui:MultipleAssign>
-                                      <Assign sap:VirtualizedContainerService.HintSize="434,81" sap2010:WorkflowViewState.IdRef="Assign_29">
+                                      <Assign sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_29">
                                         <Assign.To>
                                           <OutArgument x:TypeArguments="s:Byte[]">
                                             <mca:CSharpReference x:TypeArguments="s:Byte[]" sap2010:WorkflowViewState.IdRef="CSharpReference`1_102">bImage</mca:CSharpReference>
@@ -431,7 +554,7 @@
                                           </InArgument>
                                         </Assign.Value>
                                       </Assign>
-                                      <Assign sap:VirtualizedContainerService.HintSize="434,81" sap2010:WorkflowViewState.IdRef="Assign_30">
+                                      <Assign sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_30">
                                         <Assign.To>
                                           <OutArgument x:TypeArguments="x:String">
                                             <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_103">sImage</mca:CSharpReference>
@@ -522,9 +645,15 @@
                                     <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_288">"input\\" + sAttachmentFolderSubject</mca:CSharpValue>
                                   </InArgument>
                                 </ui:ForEachFileX.Folder>
+                                <sap:WorkflowViewStateService.ViewState>
+                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                  </scg:Dictionary>
+                                </sap:WorkflowViewStateService.ViewState>
                               </ui:ForEachFileX>
                             </Sequence>
-                            <Sequence DisplayName="추출데이터 조회하기" sap:VirtualizedContainerService.HintSize="963,5303" sap2010:WorkflowViewState.IdRef="Sequence_73">
+                            <Sequence DisplayName="추출데이터 조회하기" sap:VirtualizedContainerService.HintSize="548,81" sap2010:WorkflowViewState.IdRef="Sequence_73">
                               <Sequence.Variables>
                                 <Variable x:TypeArguments="x:String" Name="serviceKey" />
                                 <Variable x:TypeArguments="x:String" Name="responseData" />
@@ -532,17 +661,17 @@
                               </Sequence.Variables>
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                   <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
-                              <ui:OpenBrowser AutomaticallyDownloadWebDriver="{x:Null}" CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Open Browser" sap:VirtualizedContainerService.HintSize="901,5192" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="http://kpat.kipris.or.kr/kpat/searchLogina.do?next=MainSearch">
+                              <ui:OpenBrowser AutomaticallyDownloadWebDriver="{x:Null}" CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Open Browser" sap:VirtualizedContainerService.HintSize="901,5364" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="http://kpat.kipris.or.kr/kpat/searchLogina.do?next=MainSearch">
                                 <ui:OpenBrowser.Body>
                                   <ActivityAction x:TypeArguments="x:Object">
                                     <ActivityAction.Argument>
                                       <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
                                     </ActivityAction.Argument>
-                                    <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="867,5067" sap2010:WorkflowViewState.IdRef="Sequence_74">
+                                    <Sequence DisplayName="실행" sap:VirtualizedContainerService.HintSize="867,5239" sap2010:WorkflowViewState.IdRef="Sequence_74">
                                       <sap:WorkflowViewStateService.ViewState>
                                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -565,16 +694,15 @@
                                           </scg:Dictionary>
                                         </sap:WorkflowViewStateService.ViewState>
                                       </Assign>
-                                      <ui:ForEach x:TypeArguments="x:String" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="805,4717" sap2010:WorkflowViewState.IdRef="ForEach`1_4">
+                                      <ui:ForEach x:TypeArguments="x:String" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="805,4889" sap2010:WorkflowViewState.IdRef="ForEach`1_4">
                                         <ui:ForEach.Body>
                                           <ActivityAction x:TypeArguments="x:String">
                                             <ActivityAction.Argument>
                                               <DelegateInArgument x:TypeArguments="x:String" Name="currentItem" />
                                             </ActivityAction.Argument>
-                                            <Sequence DisplayName="탐색" sap:VirtualizedContainerService.HintSize="769,4593" sap2010:WorkflowViewState.IdRef="Sequence_75">
+                                            <Sequence DisplayName="탐색" sap:VirtualizedContainerService.HintSize="769,4765" sap2010:WorkflowViewState.IdRef="Sequence_75">
                                               <Sequence.Variables>
                                                 <Variable x:TypeArguments="x:String" Name="sIsLicence" />
-                                                <Variable x:TypeArguments="x:String" Name="sPwd" />
                                               </Sequence.Variables>
                                               <sap:WorkflowViewStateService.ViewState>
                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -646,7 +774,7 @@
                                                   </ui:GetValue.Value>
                                                 </ui:GetValue>
                                               </Sequence>
-                                              <ui:IfElseIf DisplayName="등록번호 유무 분기" sap:VirtualizedContainerService.HintSize="707,3817" sap2010:WorkflowViewState.IdRef="IfElseIf_2">
+                                              <ui:IfElseIf DisplayName="등록번호 유무 분기" sap:VirtualizedContainerService.HintSize="707,3989" sap2010:WorkflowViewState.IdRef="IfElseIf_2">
                                                 <ui:IfElseIf.ConditionBlocks>
                                                   <sc1:BindingList x:TypeArguments="ui:IfElseIfBlock" AllowEdit="True" AllowNew="True" AllowRemove="True" RaiseListChangedEvents="True">
                                                     <ui:IfElseIfBlock BlockType="If">
@@ -656,7 +784,10 @@
                                                         </InArgument>
                                                       </ui:IfElseIfBlock.Condition>
                                                       <ui:IfElseIfBlock.Then>
-                                                        <Sequence DisplayName="등록이 있을 때" sap:VirtualizedContainerService.HintSize="558,3509" sap2010:WorkflowViewState.IdRef="Sequence_82">
+                                                        <Sequence DisplayName="등록이 있을 때" sap:VirtualizedContainerService.HintSize="558,3681" sap2010:WorkflowViewState.IdRef="Sequence_82">
+                                                          <Sequence.Variables>
+                                                            <Variable x:TypeArguments="x:String" Name="sFileName" />
+                                                          </Sequence.Variables>
                                                           <sap:WorkflowViewStateService.ViewState>
                                                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -877,21 +1008,26 @@
                                                               </scg:Dictionary>
                                                             </sap:WorkflowViewStateService.ViewState>
                                                           </ui:Click>
-                                                          <Assign sap:VirtualizedContainerService.HintSize="496,82" sap2010:WorkflowViewState.IdRef="Assign_35">
-                                                            <Assign.To>
+                                                          <ui:GetValue ContinueOnError="{x:Null}" DisplayName="Get Text 'Edit'" sap:VirtualizedContainerService.HintSize="496,107" sap2010:WorkflowViewState.IdRef="GetValue_12">
+                                                            <ui:GetValue.Target>
+                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="c6db31d0-cb5a-48f8-8620-4e672c8cdfae" InformativeScreenshot="ad86fd53f34bff0e60b7dae9d4be36a1" Selector="&lt;wnd app='chrome.exe' cls='#32770' title='다른 이름으로 저장' /&gt;&lt;wnd aaname='탐색 창' cls='DirectUIHWND' /&gt;&lt;wnd aaname='파일 이름:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;">
+                                                                <ui:Target.TimeoutMS>
+                                                                  <InArgument x:TypeArguments="x:Int32" />
+                                                                </ui:Target.TimeoutMS>
+                                                                <ui:Target.WaitForReady>
+                                                                  <InArgument x:TypeArguments="ui:WaitForReady" />
+                                                                </ui:Target.WaitForReady>
+                                                              </ui:Target>
+                                                            </ui:GetValue.Target>
+                                                            <ui:GetValue.Value>
                                                               <OutArgument x:TypeArguments="x:String">
-                                                                <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_115">sPwd</mca:CSharpReference>
+                                                                <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_143">sFileName</mca:CSharpReference>
                                                               </OutArgument>
-                                                            </Assign.To>
-                                                            <Assign.Value>
-                                                              <InArgument x:TypeArguments="x:String">
-                                                                <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_331">System.Environment.CurrentDirectory + "\\output\\"</mca:CSharpValue>
-                                                              </InArgument>
-                                                            </Assign.Value>
-                                                          </Assign>
+                                                            </ui:GetValue.Value>
+                                                          </ui:GetValue>
                                                           <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'Edit'" EmptyField="True" sap:VirtualizedContainerService.HintSize="496,155" sap2010:WorkflowViewState.IdRef="TypeInto_6">
                                                             <ui:TypeInto.Target>
-                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="10556166-a7c4-4b21-8ddb-26a0d2d6703c" InformativeScreenshot="239924aad253e28234d2fcf40146e18d" Selector="&lt;wnd app='chrome.exe' cls='#32770' title='다른 이름으로 저장' /&gt;&lt;wnd ctrlid='1001' omit:title='주소: C:\LAB\UIPath\230511_LAB\230511_Class\files' /&gt;">
+                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="10556166-a7c4-4b21-8ddb-26a0d2d6703c" InformativeScreenshot="239924aad253e28234d2fcf40146e18d" Selector="&lt;wnd app='chrome.exe' cls='#32770' title='다른 이름으로 저장' /&gt;&lt;wnd aaname='탐색 창' cls='DirectUIHWND' /&gt;&lt;wnd aaname='파일 이름:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;">
                                                                 <ui:Target.TimeoutMS>
                                                                   <InArgument x:TypeArguments="x:Int32" />
                                                                 </ui:Target.TimeoutMS>
@@ -902,7 +1038,7 @@
                                                             </ui:TypeInto.Target>
                                                             <ui:TypeInto.Text>
                                                               <InArgument x:TypeArguments="x:String">
-                                                                <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_382">sPwd + currentItem + "_" + DateTime.Now.Ticks + ".jpg"</mca:CSharpValue>
+                                                                <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_439">System.Environment.CurrentDirectory + "\\output\\" + sAttachmentFolderSubject + "\\" + sFileName</mca:CSharpValue>
                                                               </InArgument>
                                                             </ui:TypeInto.Text>
                                                           </ui:TypeInto>
@@ -975,9 +1111,26 @@
                                                               </ui:Target>
                                                             </ui:ClickImage.Target>
                                                           </ui:ClickImage>
+                                                          <ui:GetValue ContinueOnError="{x:Null}" DisplayName="Get Text 'Edit'" sap:VirtualizedContainerService.HintSize="496,107" sap2010:WorkflowViewState.IdRef="GetValue_13">
+                                                            <ui:GetValue.Target>
+                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="c6db31d0-cb5a-48f8-8620-4e672c8cdfae" InformativeScreenshot="ad86fd53f34bff0e60b7dae9d4be36a1" Selector="&lt;wnd app='chrome.exe' cls='#32770' title='다른 이름으로 저장' /&gt;&lt;wnd aaname='탐색 창' cls='DirectUIHWND' /&gt;&lt;wnd aaname='파일 이름:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;">
+                                                                <ui:Target.TimeoutMS>
+                                                                  <InArgument x:TypeArguments="x:Int32" />
+                                                                </ui:Target.TimeoutMS>
+                                                                <ui:Target.WaitForReady>
+                                                                  <InArgument x:TypeArguments="ui:WaitForReady" />
+                                                                </ui:Target.WaitForReady>
+                                                              </ui:Target>
+                                                            </ui:GetValue.Target>
+                                                            <ui:GetValue.Value>
+                                                              <OutArgument x:TypeArguments="x:String">
+                                                                <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_144">sFileName</mca:CSharpReference>
+                                                              </OutArgument>
+                                                            </ui:GetValue.Value>
+                                                          </ui:GetValue>
                                                           <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'ComboBox'" sap:VirtualizedContainerService.HintSize="496,155" sap2010:WorkflowViewState.IdRef="TypeInto_7">
                                                             <ui:TypeInto.Target>
-                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="46093b7b-320a-4bc2-8b95-2e83527a1ed1" InformativeScreenshot="b3769fa9fbf75fe8d2177e50c6f16158" Selector="&lt;wnd app='chrome.exe' cls='#32770' title='다른 이름으로 저장' /&gt;&lt;wnd aaname='탐색 창' cls='DirectUIHWND' /&gt;&lt;wnd aaname='파일 이름:' cls='ComboBox' /&gt;">
+                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="46093b7b-320a-4bc2-8b95-2e83527a1ed1" InformativeScreenshot="b3769fa9fbf75fe8d2177e50c6f16158" Selector="&lt;wnd app='chrome.exe' cls='#32770' title='다른 이름으로 저장' /&gt;&lt;wnd aaname='탐색 창' cls='DirectUIHWND' /&gt;&lt;wnd aaname='파일 이름:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;">
                                                                 <ui:Target.TimeoutMS>
                                                                   <InArgument x:TypeArguments="x:Int32" />
                                                                 </ui:Target.TimeoutMS>
@@ -988,7 +1141,7 @@
                                                             </ui:TypeInto.Target>
                                                             <ui:TypeInto.Text>
                                                               <InArgument x:TypeArguments="x:String">
-                                                                <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_333">sPwd + currentItem + "_" + DateTime.Now.Ticks + ".pdf"</mca:CSharpValue>
+                                                                <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_440">System.Environment.CurrentDirectory + "\\output\\" + sAttachmentFolderSubject + "\\" + sFileName</mca:CSharpValue>
                                                               </InArgument>
                                                             </ui:TypeInto.Text>
                                                           </ui:TypeInto>
@@ -1180,10 +1333,11 @@
                                 </sap:WorkflowViewStateService.ViewState>
                               </ui:OpenBrowser>
                             </Sequence>
-                            <Sequence DisplayName="추출데이터 저장 및 발송하기" sap:VirtualizedContainerService.HintSize="963,1577" sap2010:WorkflowViewState.IdRef="Sequence_89">
+                            <Sequence DisplayName="추출데이터 저장 및 발송하기" sap:VirtualizedContainerService.HintSize="548,1577" sap2010:WorkflowViewState.IdRef="Sequence_89">
                               <Sequence.Variables>
                                 <Variable x:TypeArguments="sd:DataTable" Name="dtOutputBiz" />
                                 <Variable x:TypeArguments="x:String" Name="sOutPass" />
+                                <Variable x:TypeArguments="x:String" Name="sExcelOutput" />
                               </Sequence.Variables>
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -1204,7 +1358,7 @@
                                   </InArgument>
                                 </Assign.Value>
                               </Assign>
-                              <ui:BuildDataTable DisplayName="Build Data Table" sap:VirtualizedContainerService.HintSize="486,60" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xD;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xD;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xD;&#xA;      &lt;xs:complexType&gt;&#xD;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xD;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xD;&#xA;            &lt;xs:complexType&gt;&#xD;&#xA;              &lt;xs:sequence&gt;&#xD;&#xA;                &lt;xs:element name=&quot;등록번호&quot; msdata:Caption=&quot;&quot; minOccurs=&quot;0&quot;&gt;&#xD;&#xA;                  &lt;xs:simpleType&gt;&#xD;&#xA;                    &lt;xs:restriction base=&quot;xs:string&quot;&gt;&#xD;&#xA;                      &lt;xs:maxLength value=&quot;100&quot; /&gt;&#xD;&#xA;                    &lt;/xs:restriction&gt;&#xD;&#xA;                  &lt;/xs:simpleType&gt;&#xD;&#xA;                &lt;/xs:element&gt;&#xD;&#xA;                &lt;xs:element name=&quot;특허명&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xD;&#xA;                &lt;xs:element name=&quot;출원인&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xD;&#xA;                &lt;xs:element name=&quot;법적상태&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xD;&#xA;                &lt;xs:element name=&quot;특허요약&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xD;&#xA;              &lt;/xs:sequence&gt;&#xD;&#xA;            &lt;/xs:complexType&gt;&#xD;&#xA;          &lt;/xs:element&gt;&#xD;&#xA;        &lt;/xs:choice&gt;&#xD;&#xA;      &lt;/xs:complexType&gt;&#xD;&#xA;    &lt;/xs:element&gt;&#xD;&#xA;  &lt;/xs:schema&gt;&#xD;&#xA;&lt;/NewDataSet&gt;">
+                              <ui:BuildDataTable DisplayName="Build Data Table" sap:VirtualizedContainerService.HintSize="486,60" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xA;      &lt;xs:complexType&gt;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xA;            &lt;xs:complexType&gt;&#xA;              &lt;xs:sequence&gt;&#xA;                &lt;xs:element name=&quot;등록번호&quot; msdata:Caption=&quot;&quot; minOccurs=&quot;0&quot;&gt;&#xA;                  &lt;xs:simpleType&gt;&#xA;                    &lt;xs:restriction base=&quot;xs:string&quot;&gt;&#xA;                      &lt;xs:maxLength value=&quot;100&quot; /&gt;&#xA;                    &lt;/xs:restriction&gt;&#xA;                  &lt;/xs:simpleType&gt;&#xA;                &lt;/xs:element&gt;&#xA;                &lt;xs:element name=&quot;특허명&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;출원인&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;법적상태&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;특허요약&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;              &lt;/xs:sequence&gt;&#xA;            &lt;/xs:complexType&gt;&#xA;          &lt;/xs:element&gt;&#xA;        &lt;/xs:choice&gt;&#xA;      &lt;/xs:complexType&gt;&#xA;    &lt;/xs:element&gt;&#xA;  &lt;/xs:schema&gt;&#xA;&lt;/NewDataSet&gt;">
                                 <ui:BuildDataTable.DataTable>
                                   <OutArgument x:TypeArguments="sd:DataTable">
                                     <mca:CSharpReference x:TypeArguments="sd:DataTable" sap2010:WorkflowViewState.IdRef="CSharpReference`1_139">dtOutputBiz</mca:CSharpReference>
@@ -1250,15 +1404,15 @@
                                   </scg:Dictionary>
                                 </sap:WorkflowViewStateService.ViewState>
                               </ui:ForEach>
-                              <Assign sap:VirtualizedContainerService.HintSize="486,82" sap2010:WorkflowViewState.IdRef="Assign_44">
+                              <Assign sap:VirtualizedContainerService.HintSize="486,82" sap2010:WorkflowViewState.IdRef="Assign_46">
                                 <Assign.To>
                                   <OutArgument x:TypeArguments="x:String">
-                                    <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_137">sOutPass</mca:CSharpReference>
+                                    <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_142">sExcelOutput</mca:CSharpReference>
                                   </OutArgument>
                                 </Assign.To>
                                 <Assign.Value>
                                   <InArgument x:TypeArguments="x:String">
-                                    <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_398">"output\\" + "특허실용신안조사보고_요청번호" + DateTime.Now.ToString("yyyyMMddhhss")</mca:CSharpValue>
+                                    <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_430">"output\\" + sAttachmentFolderSubject + "\\특허실용신안조사보고_요청번호-" + DateTime.Now.ToString("yyyyMMddhhmmss") + ".xlsx"</mca:CSharpValue>
                                   </InArgument>
                                 </Assign.Value>
                               </Assign>
@@ -1292,21 +1446,21 @@
                                 </sap:WorkflowViewStateService.ViewState>
                                 <ui:ExcelApplicationScope.WorkbookPath>
                                   <InArgument x:TypeArguments="x:String">
-                                    <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_391">sOutPass + ".xlsx"</mca:CSharpValue>
+                                    <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_431">sExcelOutput</mca:CSharpValue>
                                   </InArgument>
                                 </ui:ExcelApplicationScope.WorkbookPath>
                               </ui:ExcelApplicationScope>
-                              <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" ContinueOnError="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" Result="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" DisplayName="Send SMTP Mail Message" Email="hki4825@gmail.com" EnableSSL="True" sap:VirtualizedContainerService.HintSize="486,163" sap2010:WorkflowViewState.IdRef="SendMail_1" IgnoreCRL="False" IsBodyHtml="False" Password="hvyhmngsjznodujb" Port="587" SecureConnection="Auto" Server="smtp.gmail.com" To="heaeny@naver.com">
+                              <ui:SendMail Bcc="{x:Null}" Cc="{x:Null}" ContinueOnError="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" ReplyTo="{x:Null}" Result="{x:Null}" SecurePassword="{x:Null}" TimeoutMS="{x:Null}" UseOAuth="{x:Null}" DisplayName="Send SMTP Mail Message" Email="hki4825@gmail.com" EnableSSL="True" sap:VirtualizedContainerService.HintSize="486,163" sap2010:WorkflowViewState.IdRef="SendMail_1" IgnoreCRL="False" IsBodyHtml="False" Password="hvyhmngsjznodujb" Port="587" SecureConnection="Auto" Server="smtp.gmail.com">
                                 <ui:SendMail.Body>
                                   <InArgument x:TypeArguments="x:String">
-                                    <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_392" xml:space="preserve">"UIPath RPA 두번째 기말과제\n요청접수일시: " + currentItem.DateAsDateTime().ToString("yyyy년 MM월 dd일 hh시 mm분") +
+                                    <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_433" xml:space="preserve">"UIPath RPA 두번째 기말과제\n요청접수일시: " + currentItem.DateAsDateTime().ToString("yyyy년 MM월 dd일 hh시 mm분") +
 "\n보고완료일시: " + System.DateTime.Now.ToString("yyyy년 MM월 dd일 hh시 mm분")</mca:CSharpValue>
                                   </InArgument>
                                 </ui:SendMail.Body>
                                 <ui:SendMail.Files>
                                   <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
                                     <InArgument x:TypeArguments="x:String">
-                                      <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_393">sOutPass + ".xlsx"</mca:CSharpValue>
+                                      <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_432">sExcelOutput</mca:CSharpValue>
                                     </InArgument>
                                   </scg:List>
                                 </ui:SendMail.Files>
@@ -1315,6 +1469,11 @@
                                     <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_399">"[보고서] 주요환율동향보고 요청번호: " + DateTime.Now.ToString("yyyyMMddhhss")</mca:CSharpValue>
                                   </InArgument>
                                 </ui:SendMail.Subject>
+                                <ui:SendMail.To>
+                                  <InArgument x:TypeArguments="x:String">
+                                    <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_442">currentItem.Sender.ToString()</mca:CSharpValue>
+                                  </InArgument>
+                                </ui:SendMail.To>
                               </ui:SendMail>
                             </Sequence>
                           </Sequence>
